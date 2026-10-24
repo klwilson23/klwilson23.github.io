@@ -30,7 +30,7 @@ listing:
         <p>We work alongside Indigenous partners and government researchers to produce evidence that bridges science and policy, supporting management frameworks that advance reconciliation, respect Indigenous sovereignty, and promote resilient ecosystems.</p>
       </div>
       <div class="loop">
-        <img src="../assets/images/ses-figure.png" alt="Fish, people and managers as three linked circles inside a dashed boundary.">
+        <img src="../assets/images/SES-figure.png" alt="Fish, people and managers as three linked circles inside a dashed boundary.">
         <p>Fishery resilience emerges from behavioural feedbacks between fish, people, and management. Adapted from Ward et al. (2016).</p>
       </div>
     </div>

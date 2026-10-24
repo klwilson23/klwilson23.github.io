@@ -20,7 +20,7 @@ listing:
 ---
 
 ```{=html}
-<header class="hero has-photo" style="background-image:url('assets/images/herring-egg.jpg'); --hero-pos:60% 50%">
+<header class="hero has-photo" style="background-image:url('assets/images/herring-egg.JPG'); --hero-pos:60% 50%">
   <svg class="rivers" data-seed="20231" viewBox="0 0 900 640" preserveAspectRatio="xMidYMax slice" aria-hidden="true"></svg>
   <div class="wrap">
     <div class="hero-body">

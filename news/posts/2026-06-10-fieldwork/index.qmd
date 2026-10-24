@@ -1,15 +1,15 @@
 ---
 title: "Notes from the field"
-description: "Kate and Lindsay help the HIRMD weir crew at the Koeye River."
+description: "Monitoring Koeye sockeye with the Heiltsuk Integrated Resource Management Department."
 date: 2026-06-10
 categories: [fieldwork]
+image: ../../../assets/images/field-9.jpg
 ---
 
 ::: {.wrap .prose style="padding-bottom:6rem"}
 
 Kate Mussett (PhD Student) and Lindsay Begemann (MRM Student) join the weir crew at the Koeye River to help monitor and survey returning sockeye salmon to Heiltsuk Territory.
 
-```markdown
 ![HIRMD crew work the holding pen after a seine for Koeye sockeye.](../../../assets/images/field-9.jpg)
-```
+
 :::

@@ -1,0 +1,390 @@
+# ---------------------------------------------------------------
+# Publications. Newest year appears first; within a year, order as listed.
+# Wrap lab members in **double asterisks** to bold them.
+# topics: any of salmon, groundfish, freshwater, people, theory
+# Optional: doi (without https://doi.org/), code, open_access: true
+# Optional: pdf: ../files/papers/your-file.pdf  (store PDFs in files/papers/)
+#
+# Lab members are bolded with **double asterisks**. Kyle is bolded throughout;
+# add asterisks around any trainee's name as papers with students come out.
+#
+# topics: salmon, groundfish, freshwater, people, theory  (these drive the filter chips)
+#
+# Optional per paper:
+#   doi: 10.1139/cjfas-2024-0123     (no https://doi.org/ prefix)
+#   pdf: ../files/papers/name.pdf    (store the file in files/papers/)
+#   code: https://github.com/...
+#   open_access: true
+#
+# ---------------------------------------------------------------
+
+# ============================ 2026 ============================
+
+- year: 2026
+  title: "Groundfish with diverse life histories increase in size and abundance with proximity to spatial protections"
+  authors: "**Wilson KL**, Frid A, Anderson SC"
+  journal: "Ecology Letters (in review)"
+  topics: [groundfish]
+  # doi:
+  # pdf: ../files/papers/wilson-2026-groundfish-spatial-protections.pdf
+
+- year: 2026
+  title: "Recruitment as an emergent property of ecological and evolutionary processes: implications for compensation and harvest management of fish"
+  authors: "Post JR, **Wilson KL**, Ward HGM, Arlinghaus R"
+  journal: "Fish and Fisheries (in review)"
+  topics: [theory]
+  # doi:
+  # pdf: ../files/papers/post-2026-recruitment-emergent-property.pdf
+
+- year: 2026
+  title: "Prioritizing coho conservation and First Nation's fisheries access through Haíłzaqv monitoring"
+  authors: "Steel J, Johnson S, Atlas W, Reid M, Housty W, Adams M, **Wilson KL**, Whitney C, Peel Z, Peel K, Kern D, Ban NC"
+  journal: "North American Journal of Fisheries Management (accepted)"
+  topics: [salmon, people]
+  # doi:
+  # pdf: ../files/papers/steel-2026-haizaqv-coho-monitoring.pdf
+
+- year: 2026
+  title: "From reflection to action: twenty years of Canada's Wild Salmon Policy"
+  authors: "Price MHH, Adams MS, Braun DC, Cleveland MC, Connors K, Dennert AM, Hill A, Holt CA, Hunt BPV, Hwang J, Irvine JR, Knox G, Lerner JE, MacDuffee M, McLaskey AK, Peacock SJ, Pestal G, Porter M, Rosenberger A, Sainsbury NC, Saunders M, Sloat MR, Whitney CK, **Wilson KL**, Wong J, Wor C, Yehle K, Connors BM"
+  journal: "Canadian Journal of Fisheries and Aquatic Sciences (accepted)"
+  topics: [salmon, people]
+  doi: https://doi.org/10.1139/cjfas-2026-0272
+  pdf: ../files/papers/wild-salmon-policy-reflections-price.pdf
+
+- year: 2026
+  title: "What does priority mean in a context of decreasing abundance? Upholding Nuxalk salmon rights"
+  authors: "Beveridge R, Gavenus E, **Wilson KL**, Steel J, Atlas W, Satterfield T"
+  journal: "FACETS (accepted)"
+  open_access: true
+  topics: [salmon, people]
+  # doi:
+  # pdf: ../files/papers/beveridge-2026-nuxalk-salmon-rights.pdf
+
+- year: 2026
+  title: "Weaving Indigenous and Western knowledge systems across a continuum of knowledge and decision making spaces"
+  authors: "Ban NC, **Watkins HV**, Forrest RE, Frid A, Holt CA, Hall SJ, Service CN, Ramirez L, Curtis DL, **Wilson KL**, Ignace L, Reid AJ, Moffat K, Neasloss MR, burton nm"
+  journal: "Current Opinion in Environmental Sustainability 81: 101644"
+  topics: [people]
+  doi: https://doi.org/10.1016/j.cosust.2026.101644
+  pdf: ../files/papers/weaving-knowledge-decision-making-ban.pdf
+
+# ============================ 2025 ============================
+
+- year: 2025
+  title: "Co-producing knowledge with Indigenous Peoples: challenges and solutions"
+  authors: "Grimm J, Jarvis-Cross M, Bailey M, Ban NC, Bartlett M, Cadman R, Cannon SE, Cookie SJ, Cyr K, Dubos V, Duncan A, Gazing Wolf J, Harrison HL, Iyer A, Kirkwood AE, Lingrui Meng R, Moore N, Morphet ME, Sainsbury NC, Semeniuk CAD, Sherwood L, Deondre Smiles N, Smith E, Timmer B, Vanderhoop CA, **Wilson KL**, Bateman A, Krkosek M"
+  journal: "Trends in Ecology and Evolution 41: 6–9"
+  topics: [people]
+  doi: https://doi.org/10.1016/j.tree.2025.10.012
+  pdf: ../files/papers/indigenous-knowledge-academic-grimm.pdf
+
+- year: 2025
+  title: "A safe operating space for salmon watersheds under rapid climate change"
+  authors: "Moore JW, Ulaski ME, **Wilson KL**, Martin TG, Kuiper SD, Peacock S, Braun D, Naman S, Pitman KJ, Reid A, Rosenfeld J, Sainsbury N, Wilson SM, Zdasiuik B"
+  journal: "Fish and Fisheries 26: 1213–1228"
+  topics: [salmon, people]
+  open_access: true
+  doi: https://doi.org/10.1111/faf.70027
+  pdf: ../files/papers/sos-salmon-watersheds-moore.pdf
+
+- year: 2025
+  title: "Using fisheries risk assessment to inform precautionary and collaborative management in a declining coho salmon fishery"
+  authors: "**Wilson KL**, Atlas WI, Whitney CK, Reid M, Service CN, Connors BM, Adams MS"
+  journal: "Canadian Journal of Fisheries and Aquatic Sciences 82: 1–18"
+  topics: [salmon, people]
+  open_access: true
+  doi: https://doi.org/10.1139/cjfas-2025-0023
+  pdf: ../files/papers/ncc-coho-risk-assessment-wilson.pdf
+
+- year: 2025
+  title: "Barriers and opportunities for the effective management of cumulative effects in salmon ecosystems"
+  authors: "Ulaski ME, Moore JW, Carlson D, Taddei KF, Kriese K, Griggs J, Murray C, Adams MS, **Wilson KL**, Reid A, Sainsbury N, Cannon S, Griggs E, Martin T"
+  journal: "FACETS 10: 1–25"
+  open_access: true
+  topics: [salmon, people]
+  doi: https://doi.org/10.1139/facets-2024-0348
+  pdf: ../files/papers/cumulative-effects-ulaski.pdf
+
+- year: 2025
+  title: "Ecological approaches to understanding dynamic interactions between recreational angler behaviour and fishes"
+  authors: "Post JR, **Wilson KL**, Johnston FD, Sass GG, Askey PA, Ward HGM, Allen MS"
+  journal: "Book chapter in Understanding Recreational Fishers: Disciplinary and Interdisciplinary Approaches for Fisheries Management"
+  topics: [freshwater, people, theory]
+  doi: https://doi.org/10.1007/978-3-031-99739-6_4
+  pdf: ../files/papers/understanding-recreational-fishers-book-post.pdf
+
+# ============================ 2024 ============================
+
+- year: 2024
+  title: "Estimating age-at-maturity for individual Atlantic bluefin tuna (Thunnus thynnus) from back-calculated growth trajectories"
+  authors: "Stewart ND, **Wilson KL**, Hanke A"
+  journal: "Fisheries Research 278: 107102"
+  topics: [theory, methods]
+  doi: https://doi.org/10.1016/j.fishres.2024.107102
+  pdf: ../files/papers/atlantic-bluefin-growth-stewart.pdf
+
+# ============================ 2023 ============================
+
+- year: 2023
+  title: "Re-imagining the precautionary approach to make collaborative fishery management inclusive of Indigenous knowledge systems"
+  authors: "Frid A, **Wilson KL**, Walkus J, Forrest RE, Reid M"
+  journal: "Fish and Fisheries 24: 940–958"
+  topics: [people, groundfish]
+  open_access: true
+  doi: https://doi.org/10.1111/faf.12778
+  pdf: ../files/papers/reimagining-precautionary-approach-frid.pdf
+
+- year: 2023
+  title: "The role of spatial structure in at-risk metapopulation recoveries"
+  authors: "**Wilson KL**, Sawyer A, Potapova A, Bailey CJ, LoScerbo D, Sweeney-Bergen EK, Hodgson EE, Pitman KJ, Seitz K, Law L, Warkentin L, Wilson SM, Atlas WI, Braun DC, Sloat M, Tinker MT, Moore JW"
+  journal: "Ecological Applications 33: e2898"
+  topics: [theory, salmon]
+  open_access: true
+  doi: https://doi.org/10.1002/eap.2898
+  pdf: ../files/papers/metapopulation-spatial-recoveries-wilson.pdf
+
+# ============================ 2022 ============================
+
+- year: 2022
+  title: "Stressor-response functions as generalizable models for context dependence"
+  authors: "Rosenfeld JR, Gonzalez P, Jarvis L, Enders E, Bayly M, Paul AJ, MacPherson L, Moore JW, Sullivan M, Ulaski M, **Wilson KL**"
+  journal: "Trends in Ecology and Evolution 37: 1032–1035"
+  topics: [theory]
+  doi: https://doi.org/10.1016/j.tree.2022.09.010
+  pdf: ../files/papers/stressor-response-context-dependence-rosenfeld.pdf
+
+- year: 2022
+  title: "Quantifying regional patterns of collapse in British Columbia Central Coast chum salmon (Oncorhynchus keta) populations since 1960"
+  authors: "Atlas WI, **Wilson KL**, Whitney CK, Moody JE, Service CN, Reid M, Sloat MR"
+  journal: "Canadian Journal of Fisheries and Aquatic Sciences 79: 2072–2086"
+  topics: [salmon]
+  doi: https://doi.org/10.1139/cjfas-2022-0013
+  pdf: ../files/papers/central-coast-chum-atlas.pdf
+
+- year: 2022
+  title: "Matching of resource use and investment according to waterbody size in recreational fisheries"
+  authors: "Kaemingk MA, Arlinghaus R, Birdsong MH, Chizinski CJ, Lyach R, **Wilson KL**, Pope KL"
+  journal: "Fisheries Research 254: 106388"
+  topics: [freshwater, people]
+  doi: https://doi.org/10.1016/j.fishres.2022.106388
+  pdf: ../files/papers/resource-use-waterbody-size-kaemingk.pdf
+
+- year: 2022
+  title: "Fish length back-calculation from scales: advancing methodology and correction of bias"
+  authors: "Bailey CJ, **Wilson KL**, More O'Ferrall M, Moore JW"
+  journal: "Canadian Journal of Fisheries and Aquatic Sciences 79: 1780–1797"
+  topics: [theory, methods]
+  doi: https://doi.org/10.1139/cjfas-2021-0270
+  pdf: ../files/papers/scale-length-bias-correction-bailey.pdf
+
+- year: 2022
+  title: "Marine and freshwater regime changes impact a community of migratory Pacific salmonids in decline"
+  authors: "**Wilson KL**, Bailey CJ, Davies TD, Moore JW"
+  journal: "Global Change Biology 28: 72–85"
+  topics: [salmon, freshwater]
+  open_access: true
+  doi: https://doi.org/10.1111/gcb.15895
+  pdf: ../files/papers/marine-freshwater-salmon-changes-wilson.pdf
+
+# ============================ 2021 ============================
+
+- year: 2021
+  title: "Hotspots for rockfishes, structural corals, and large-bodied sponges along the central coast of Pacific Canada"
+  authors: "Frid A, McGreer M, **Wilson KL**, Du Preez C, Blaine T, Norgard T"
+  journal: "Scientific Reports 11: 21944"
+  open_access: true
+  topics: [groundfish]
+  doi: https://doi.org/10.1038/s41598-021-00791-9
+  pdf: ../files/papers/central-coast-hotspots-frid.pdf
+
+- year: 2021
+  title: "Assessing conservation status with extensive but low-resolution data: application of frequentist and Bayesian models to Endangered Athabasca River rainbow trout"
+  authors: "Post JR, Ward HGM, **Wilson KL**, Sterling GL, Cantin A, Taylor EB"
+  journal: "Conservation Biology 36: e13783"
+  topics: [freshwater, theory, methods]
+  doi: https://doi.org/10.1111/cobi.13783
+  pdf: ../files/papers/Bayesian-status-Athabasca-rainbows-post.pdf
+
+- year: 2021
+  title: "Phenological mismatch, carryover effects, and marine survival in a wild steelhead trout Oncorhynchus mykiss population"
+  authors: "Wilson SM, Buehrens T, Fisher J, **Wilson KL**, Moore JW"
+  journal: "Progress in Oceanography 193: 102533"
+  topics: [salmon]
+  doi: https://doi.org/10.1016/j.pocean.2021.102533
+  pdf: ../files/papers/phenological-mismatch-steelhead-wilson.pdf
+
+- year: 2021
+  title: "Mixed-stock fishing methods and low salmon returns intensify barriers and costs to access for Indigenous fishers"
+  authors: "Steel JR, Atlas WI, **Wilson KL**, Ban NC, Wilson J, Housty WG, Moore JW"
+  journal: "FACETS 6: 592–613"
+  open_access: true
+  topics: [salmon, people]
+  doi: https://doi.org/10.1139/facets-2020-0080
+  pdf: ../files/papers/barriers-access-mixed-stock-fisheries-steel.pdf
+
+- year: 2021
+  title: "Portfolio simplification arising from a century of change in salmon population diversity and artificial production"
+  authors: "Price MHH, Moore JW, Connors BM, **Wilson KL**, Reynolds JD"
+  journal: "Journal of Applied Ecology 58: 1477–1486"
+  topics: [salmon, theory]
+  doi: https://doi.org/10.1111/1365-2664.13835
+  pdf: ../files/papers/portfolio-simplification-sockeye-price.pdf
+
+# ============================ 2020 ============================
+
+- year: 2020
+  title: "Social-ecological feedbacks drive spatial exploitation in a northern freshwater fishery: a halo of depletion"
+  authors: "**Wilson KL**, Foos A, Barker O, Farineau A, De Gisi J, Post JR"
+  journal: "Journal of Applied Ecology 57: 206–218"
+  topics: [freshwater, people]
+  doi: https://doi.org/10.1111/1365-2664.13563
+  pdf: ../files/papers/lake-trout-site-choice-wilson.pdf
+
+# ============================ 2019 ============================
+
+- year: 2019
+  title: "Life-history variation along environmental and harvest clines of a northern freshwater fish: plasticity and adaptation"
+  authors: "**Wilson KL**, De Gisi J, Cahill CL, Barker OE, Post JR"
+  journal: "Journal of Animal Ecology 88: 717–733"
+  topics: [freshwater, theory]
+  doi: https://doi.org/10.1111/1365-2656.12965
+  pdf: ../files/papers/lake-trout-life-history-wilson.pdf
+
+- year: 2019
+  title: "Comparing three methods to estimate the average size at first maturity: a case study on a Curimatid exhibiting polyphasic growth"
+  authors: "Hashiguti DT, Soares BE, **Wilson KL**, Raiol RDO, Montag LFA"
+  journal: "Ecology of Freshwater Fish 28: 266–273"
+  topics: [freshwater, methods]
+  doi: https://doi.org/10.1111/eff.12451
+  pdf: ../files/papers/comparing-maturity-methods-hashiguti.pdf
+
+- year: 2019
+  title: "Landscape scale social and ecological outcomes of dynamic angler and fish behaviours: processes, data, and patterns"
+  authors: "Carruthers TR, Dabrowska K, Haider W, Parkinson E, Varkey D, Ward HGM, McAllister MK, Godin T, Van Poorten B, Askey P, **Wilson KL**, Hunt L, Clarke A, Newton E, Walters CJ, Post JR"
+  journal: "Canadian Journal of Fisheries and Aquatic Sciences 76: 970–988"
+  topics: [freshwater, people, theory]
+  doi: https://doi.org/10.1139/cjfas-2018-0168
+  pdf: ../files/papers/bc-rainbow-trout-landscape-carruthers.pdf
+
+- year: 2019
+  title: "The future of recreational fisheries: advances in science, monitoring, management, and practice"
+  authors: "Brownscombe JW, Hyder K, Potts W, **Wilson KL**, Pope KL, Danylchuk AJ, Cooke SJ, Clarke A, Arlinghaus R, Post JR"
+  journal: "Fisheries Research 211: 247–255"
+  topics: [people, freshwater]
+  doi: https://doi.org/10.1016/j.fishres.2018.10.019
+  pdf: ../files/papers/future-of-recreational-fisheries-brownscombe.pdf
+
+# ============================ 2018 ============================
+
+- year: 2018
+  title: "Multiple challenges confront a high-effort inland recreational fishery in decline"
+  authors: "Cahill CL, Mogensen S, **Wilson KL**, Cantin A, Paul A, Sinnatamby RN, Christensen P, Reilly J, Winkel L, Farineau A, Post JR"
+  journal: "Canadian Journal of Fisheries and Aquatic Sciences 75: 1357–1368"
+  topics: [freshwater, people]
+  doi: https://doi.org/10.1139/cjfas-2018-0086
+  pdf: ../files/papers/multiple-challenges-inland-fishery-cahill.pdf
+
+- year: 2018
+  title: "Growing the biphasic framework: techniques and recommendations for fitting emerging growth models"
+  authors: "**Wilson KL**, Honsey A, Moe B, Venturelli P"
+  journal: "Methods in Ecology and Evolution 9: 822–833"
+  topics: [theory, methods]
+  doi: https://doi.org/10.1111/2041-210X.12931
+  pdf: ../files/papers/biphasic-framework-wilson.pdf
+
+- year: 2018
+  title: "Decoupling the effects of density and environmental variability on fish growth"
+  authors: "Matthias BG, Ahrens RNM, Allen MS, Tuten T, Siders ZA, **Wilson KL**"
+  journal: "Fisheries Research 198: 209–219"
+  topics: [theory]
+  doi: https://doi.org/10.1016/j.fishres.2017.08.018
+  pdf: ../files/papers/fish-growth-black-crappie-matthias.pdf
+
+# ============================ 2017 ============================
+
+- year: 2017
+  title: "Trophic state indicators are a better predictor of Florida Bass condition compared to temperature in Florida's freshwater bodies"
+  authors: "Boucek R, Barrientos C, Bush M, Gandy D, **Wilson KL**, Young J"
+  journal: "Environmental Biology of Fishes 10: 1181–1192"
+  topics: [freshwater]
+  doi: https://doi.org/10.1007/s10641-017-0635-9
+  pdf: ../files/papers/trophic-state-bass-condition-boucek.pdf
+
+# ============================ 2016 ============================
+
+- year: 2016
+  title: "Fishing quality and angling effort relationships in an experimentally stocked, spatially structured fishery"
+  authors: "Mee JA, Post JR, Ward HGM, **Wilson KL**, Newton E, Cantin A"
+  journal: "Ecological Applications 26: 1693–1707"
+  topics: [freshwater, people]
+  doi: https://doi.org/10.1890/15-0879.1
+  pdf: ../files/papers/SES-experimental-stocking-mee.pdf
+
+- year: 2016
+  title: "Understanding and managing social-ecological feedbacks in spatially structured recreational fisheries: the overlooked behavioral dimension"
+  authors: "Ward HGM, Allen MS, Camp EV, Cole NW, Hunt LM, Matthias B, Post JR, **Wilson KL**, Arlinghaus R"
+  journal: "Fisheries 41: 524–535"
+  topics: [people, theory]
+  doi: https://doi.org/10.1080/03632415.2016.1207632
+  pdf: ../files/papers/social-ecological-feedbacks-ward.pdf
+
+- year: 2016
+  title: "Supply-demand equilibria and the size-number trade-off in spatially structured recreational fisheries"
+  authors: "**Wilson KL**, Cantin A, Ward HGM, Newton ER, Mee JA, Varkey DA, Parkinson EA, Post JR"
+  journal: "Ecological Applications 26: 1086–1097"
+  topics: [freshwater, people, theory]
+  doi: https://doi.org/10.1890/14-1771
+  pdf: ../files/papers/size-numbers tradeoff-wilson.pdf
+
+# ============================ 2015 ============================
+
+- year: 2015
+  title: "Combining samples from multiple gears helps to avoid fishy growth curves"
+  authors: "**Wilson KL**, Matthias BG, Barbour AB, Ahrens RNM, Tuten T, Allen MS"
+  journal: "North American Journal of Fisheries Management 35: 1121–1131"
+  topics: [methods, theory]
+  doi: https://doi.org/10.1080/02755947.2015.1079573
+  pdf: ../files/papers/combining-gears-wilson.pdf
+
+- year: 2015
+  title: "Nonlinear and density-dependent fish habitat selection across physiochemical gradients in an invasive macrophyte habitat"
+  authors: "**Wilson KL**, Allen MS, Ahrens RNM, Netherland MD"
+  journal: "Environmental Biology of Fishes 98: 1525–1539"
+  topics: [freshwater]
+  doi: https://doi.org/10.1007/s10641-015-0379-3
+  pdf: ../files/papers/nonlinear-habitat-selection-wilson.pdf
+
+- year: 2015
+  title: "How to navigate fisheries education and employment"
+  authors: "Carlson AK, Dunmall KM, Boucek RE, Cole NW, Kerns JA, Krogman RM, Lloyd MC, Nguyen VM, Wendt TR, White SL, **Wilson KL**"
+  journal: "Fisheries 40: 196–197"
+  topics: [people]
+  doi: https://doi.org/10.1080/03632415.2015.1025952
+  pdf: ../files/papers/how-to-fisheries-carlson.pdf
+
+# ============================ 2014 ============================
+
+- year: 2014
+  title: "The death of immortality"
+  authors: "**Wilson KL**, Barbour AB"
+  journal: "Nature 512: 226 (short fiction)"
+  topics: [people, fiction]
+  doi: https://doi.org/10.1038/512226a
+  pdf: ../files/papers/death-of-immortality-wilson.pdf
+
+- year: 2014
+  title: "Use of underwater video to assess freshwater fish populations in dense submersed aquatic vegetation"
+  authors: "**Wilson KL**, Allen MS, Ahrens RNM, Netherland MD"
+  journal: "Marine and Freshwater Research 66: 10–22"
+  topics: [freshwater, methods]
+  doi: https://doi.org/10.1071/MF13230
+  pdf: ../files/papers/underwater-video-use-wilson.pdf
+
+- year: 2014
+  title: "Trade-offs in experimental designs for estimating post-release mortality in containment studies"
+  authors: "Rogers MW, Barbour AB, **Wilson KL**"
+  journal: "Fisheries Research 151: 130–135"
+  topics: [freshwater, methods]
+  doi: https://doi.org/10.1016/j.fishres.2013.10.020
+  pdf: ../files/papers/post-release-mortality-rogers.pdf

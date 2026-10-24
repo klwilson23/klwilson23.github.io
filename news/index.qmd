@@ -1,0 +1,29 @@
+---
+title: "News"
+description: "Papers, awards, fieldwork, and people news from the Wilson Lab."
+page-layout: custom
+listing:
+  id: news
+  contents: posts
+  sort: "date desc"
+  date-format: "MMMM D, YYYY"
+  template: ../_templates/news-list.ejs
+  feed: true
+---
+
+```{=html}
+<header class="page-head">
+  <div class="wrap">
+    <h1>News</h1>
+    <p>New papers, awards, fieldwork, and comings and goings in the lab.</p>
+  </div>
+</header>
+<div class="wrap" style="padding-bottom:6rem">
+```
+
+::: {#news}
+:::
+
+```{=html}
+</div>
+```

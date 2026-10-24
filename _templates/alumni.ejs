@@ -1,0 +1,7 @@
+```{=html}
+<ul class="alumni">
+<% for (const a of items) { %>
+<li><strong><%= a.name %></strong><span><%= a.degree %>, <%= a.years %><% if (a.now) { %>. Now: <%= a.now %><% } %></span></li>
+<% } %>
+</ul>
+```

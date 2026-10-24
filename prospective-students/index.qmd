@@ -1,0 +1,75 @@
+---
+title: "Prospective students"
+description: "How to join the Wilson Lab as a graduate student, postdoc, or undergraduate researcher."
+page-layout: custom
+---
+
+```{=html}
+<header class="page-head">
+  <div class="wrap">
+    <h1>Prospective students</h1>
+    <p>We welcome curious, collaborative people from all backgrounds, especially those interested in working where fisheries science, Indigenous-led stewardship, and policy meet.</p>
+  </div>
+</header>
+```
+
+::: {.wrap}
+
+::: {.callout-lab}
+### Current openings
+
+<!-- Update this box whenever you're recruiting. -->
+We are not actively advertising funded positions right now, but we're always happy to hear from motivated students with their own funding ideas. Check back or follow our [news](../news/) for announcements.
+:::
+
+::: {.two-col style="margin-top:3rem"}
+
+::: {.prose}
+## What the lab is like
+
+Our lab is part of SFU's School of Resource and Environmental Management (REM), an interdisciplinary school where ecologists, economists, planners, and social scientists work side by side.
+
+Most projects combine field or partner-collected data with quantitative models, and many are developed in collaboration with Indigenous organizations and government agencies. Students typically gain experience in R, Bayesian modelling, population dynamics, and communicating results to decision-makers.
+
+We value kindness, open science, and learning together. You don't need to arrive as an expert modeller; you do need curiosity and a willingness to learn.
+:::
+
+::: {.prose}
+## Who we're looking for
+
+- **Master's students** interested in applied fisheries questions with direct management relevance.
+- **PhD students** who want to develop independent research at the interface of ecology, assessment, and governance.
+- **Postdoctoral fellows**, including those applying for national fellowships. We're happy to co-develop applications.
+- **Undergraduates** looking for research assistant, directed study, or honours projects.
+
+Graduate students apply through REM's graduate programs. Check the [REM website](https://www.sfu.ca/rem.html) for program details and deadlines.
+:::
+
+:::
+
+::: {.prose style="margin-top:3rem"}
+## Get in touch {#get-in-touch}
+
+Before applying, please email Kyle with:
+
+1. A few sentences on your research interests and why this lab is a good fit
+2. Your CV, including any quantitative or field experience
+3. Unofficial transcripts
+4. Any scholarships you've applied for or plan to apply for
+
+Contact details are on [Kyle's SFU REM profile](https://www.sfu.ca/rem/about/people/wilsonkl.html).
+
+## Frequently asked questions
+:::
+
+```{=html}
+<div class="prose">
+  <details class="faq"><summary>Do I need a strong background in statistics or programming?</summary><p>No. Comfort with numbers and a willingness to learn R are more important than prior expertise. Kyle teaches courses in R and applied Bayesian modelling, and lab members learn a lot from each other.</p></details>
+  <details class="faq"><summary>Is funding available?</summary><p>Funding depends on current grants and on scholarships. Strong applicants are encouraged to apply for national scholarships such as NSERC or SSHRC, and we can help with applications.</p></details>
+  <details class="faq"><summary>Will I do fieldwork?</summary><p>Some projects involve fieldwork with partners; others are fully quantitative using existing datasets. We'll talk through options that suit your interests and circumstances.</p></details>
+  <details class="faq"><summary>Can I talk to current students?</summary><p>Yes. Once we've been in touch, we'll connect you with lab members so you can hear what the lab is like firsthand.</p></details>
+</div>
+<div style="height:6rem"></div>
+```
+
+:::

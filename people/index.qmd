@@ -1,0 +1,56 @@
+---
+title: "People"
+description: "Folks from the Integrated Fisheries Ecology Lab at SFU."
+page-layout: custom
+listing:
+  - id: people
+    contents: people.yml
+    template: ../_templates/people.ejs
+  - id: alumni
+    contents: alumni.yml
+    template: ../_templates/alumni.ejs
+---
+
+```{=html}
+<header class="page-head">
+  <div class="wrap">
+    <h1>People</h1>
+    <p>Folks from our lab.</p>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="section-head" style="margin-bottom:0">
+    <span></span>
+    <div class="filters" data-target="#listing-people" role="group" aria-label="Filter people by role">
+      <button class="chip" data-f="all" aria-pressed="true">Everyone</button>
+      <button class="chip" data-f="postdoc" aria-pressed="false">Postdocs &amp; staff</button>
+      <button class="chip" data-f="grad" aria-pressed="false">Graduate students</button>
+      <button class="chip" data-f="undergrad" aria-pressed="false">Undergraduates</button>
+    </div>
+  </div>
+```
+
+::: {#people}
+:::
+
+```{=html}
+</div>
+
+<section class="block" style="margin-top:5rem">
+  <div class="wrap split">
+    <div>
+      <h2>Alumni</h2>
+      <p class="lede" style="margin-top:1rem">Former lab members, and where they are now.</p>
+    </div>
+    <div>
+```
+
+::: {#alumni}
+:::
+
+```{=html}
+    </div>
+  </div>
+</section>
+```

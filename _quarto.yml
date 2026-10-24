@@ -1,0 +1,70 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - CNAME
+    - "files/**"
+    - "people/images/**"
+    - "assets/images/**"
+    - "research/projects/images/**"
+    - "papers/covers/**"
+    - "curriculum-vitae/index.html"
+
+website:
+  title: "Integrated Fisheries Ecology Lab"
+  description: "Understanding sources of risk and resilience in fisheries."
+  site-url: https://klwilson.org
+  favicon: assets/IFEL_round_logo_high_res_circle.png
+  open-graph: true
+  page-navigation: false
+  navbar:
+    logo: assets/IFEL_round_logo_high_res_circle.png
+    logo-alt: "Integrated Fisheries Ecology Lab logo"
+    title: "Integrated Fisheries Ecology Lab"
+    collapse-below: lg
+    left:
+      - text: Research
+        href: research/index.qmd
+      - text: People
+        href: people/index.qmd
+      - text: Papers
+        href: papers/index.qmd
+      - text: News
+        href: news/index.qmd
+      - text: Prospective students
+        href: prospective-students/index.qmd
+      - text: Resources
+        href: resources/index.qmd
+    right:
+      - text: CV
+        href: files/wilson-cv.pdf
+      - icon: github
+        href: https://github.com/klwilson23
+        aria-label: GitHub
+      - icon: mortarboard
+        href: https://scholar.google.ca/citations?user=JQtrxYAAAAAJ&hl=en
+        aria-label: Google Scholar
+  page-footer:
+    background: "#0F2F38"
+    left: |
+      Simon Fraser University is located on the unceded traditional territories of the
+      xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh (Squamish), səl̓ílwətaʔɬ (Tsleil-Waututh),
+      and kʷikʷəƛ̓əm (Kwikwetlem) Nations.
+    right:
+      - text: SFU REM
+        href: https://www.sfu.ca/rem.html
+      - text: Fisheries Management Lab
+        href: https://www.fisheriesmanagementlab.ca/
+      - text: Contact
+        href: prospective-students/index.qmd#get-in-touch
+
+format:
+  html:
+    theme:
+      light: [cosmo, assets/theme.scss]
+      dark: [cosmo, assets/theme.scss, assets/theme-dark.scss]
+    respect-user-color-scheme: true
+    toc: false
+    smooth-scroll: true
+    include-after-body: assets/site-scripts.html
+    link-external-newwindow: false

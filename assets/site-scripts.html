@@ -1,0 +1,100 @@
+<script>
+/* River network: draws on any <svg class="rivers" data-seed="..."> */
+(function(){
+  const NS = 'http://www.w3.org/2000/svg';
+  const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  document.querySelectorAll('svg.rivers').forEach(svg => {
+    let seed = parseInt(svg.dataset.seed || '20231', 10);
+    const animate = svg.dataset.animate !== 'false' && !reduce;
+    const rnd = () => (seed = (seed * 16807) % 2147483647) / 2147483647;
+    const segs = [], tips = [], MAX = 7;
+    function branch(x, y, a, len, depth, order){
+      const ex = x + Math.sin(a) * len, ey = y - Math.cos(a) * len;
+      const mx = (x + ex) / 2 + Math.cos(a) * (rnd() - .5) * len * .35;
+      const my = (y + ey) / 2 + Math.sin(a) * (rnd() - .5) * len * .35;
+      segs.push({d:`M${x.toFixed(1)} ${y.toFixed(1)} Q${mx.toFixed(1)} ${my.toFixed(1)} ${ex.toFixed(1)} ${ey.toFixed(1)}`, w:.5 + depth * .5, o:order, op:.35 + depth * .09});
+      const stop = depth > 0 && depth < 4 && rnd() < .12;
+      if (depth === 0 || stop){ if (rnd() < .45) tips.push([ex, ey]); return; }
+      const spread = .32 + rnd() * .3;
+      branch(ex, ey, a - spread * (.6 + rnd() * .6), len * (.7 + rnd() * .12), depth - 1, order + 1);
+      branch(ex, ey, a + spread * (.6 + rnd() * .6), len * (.66 + rnd() * .12), depth - 1, order + 1);
+    }
+    branch(640, 700, -0.28, 150, MAX, 0);
+    const STEP = 150, DUR = 750;
+    segs.forEach(s => {
+      const p = document.createElementNS(NS, 'path');
+      p.setAttribute('d', s.d);
+      p.setAttribute('stroke-width', s.w.toFixed(2));
+      p.setAttribute('opacity', Math.min(s.op, .95).toFixed(2));
+      svg.appendChild(p);
+      if (animate){
+        const L = p.getTotalLength();
+        p.style.strokeDasharray = L; p.style.strokeDashoffset = L;
+        p.animate([{strokeDashoffset:L},{strokeDashoffset:0}], {duration:DUR, delay:s.o * STEP, fill:'forwards', easing:'ease-out'});
+      }
+    });
+    tips.forEach(([x, y]) => {
+      const c = document.createElementNS(NS, 'circle');
+      c.setAttribute('cx', x.toFixed(1)); c.setAttribute('cy', y.toFixed(1)); c.setAttribute('r', 3.2);
+      svg.appendChild(c);
+    });
+    const finish = () => svg.classList.add('done');
+    animate ? setTimeout(finish, (MAX + 1) * STEP + DUR) : finish();
+  });
+})();
+
+/* Filter chips: <div class="filters" data-target="#list"> <button class="chip" data-f="salmon"> ; items carry data-tags="salmon theory" */
+(function(){
+  document.querySelectorAll('.filters[data-target]').forEach(group => {
+    const chips = group.querySelectorAll('.chip');
+    chips.forEach(ch => ch.addEventListener('click', () => {
+      chips.forEach(c => c.setAttribute('aria-pressed', c === ch ? 'true' : 'false'));
+      const f = ch.dataset.f;
+      document.querySelectorAll(group.dataset.target + ' [data-tags]').forEach(it => {
+        const keys = it.dataset.tags.split(/\s+/);
+        it.hidden = !(f === 'all' || keys.includes(f) || keys.includes('always'));
+      });
+      document.querySelectorAll(group.dataset.target + ' .year-group').forEach(g => {
+        g.hidden = !g.querySelector('[data-tags]:not([hidden])');
+      });
+    }));
+  });
+})();
+
+/* Paper search */
+(function(){
+  const box = document.getElementById('paperSearch');
+  if (!box) return;
+  box.addEventListener('input', () => {
+    const q = box.value.trim().toLowerCase();
+    document.querySelectorAll('#papers-list [data-tags]').forEach(li => {
+      li.hidden = q && !li.textContent.toLowerCase().includes(q);
+    });
+    document.querySelectorAll('#papers-list .year-group').forEach(g => {
+      g.hidden = !g.querySelector('[data-tags]:not([hidden])');
+    });
+  });
+})();
+/* Bio dialogs on the People page */
+(function(){
+  document.querySelectorAll('.bio-open').forEach(btn => {
+    const dlg = document.getElementById(btn.dataset.dialog);
+    if (!dlg) return;
+    btn.addEventListener('click', () => { dlg.showModal(); dlg.scrollTop = 0; });
+    dlg.querySelector('.bio-close').addEventListener('click', () => dlg.close());
+    dlg.addEventListener('click', e => { if (e.target === dlg) dlg.close(); });
+    dlg.addEventListener('close', () => btn.focus());
+  });
+})();
+
+/* Open links to other sites (and PDFs) in a new tab */
+(function(){
+  document.querySelectorAll('a[href]').forEach(a => {
+    if (a.target) return;
+    const external = a.host && a.host !== location.host;
+    const isPdf = /\.pdf($|[?#])/i.test(a.getAttribute('href') || '');
+    if (external || isPdf){ a.target = '_blank'; a.rel = (a.rel ? a.rel + ' ' : '') + 'noopener'; }
+  });
+})();
+
+</script>

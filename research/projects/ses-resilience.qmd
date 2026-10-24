@@ -1,0 +1,37 @@
+---
+title: "Social-ecological resilience in changing fisheries"
+description: "How feedbacks between fish, harvesters, and managers build or erode resilience."
+system: [people, theory]
+partners: "Indigenous, academic, and government partners"
+status: "Ongoing"
+order: 5
+page-layout: custom
+---
+
+```{=html}
+<header class="page-head">
+  <div class="wrap">
+    <p style="margin:0 0 1rem;font-family:inherit;font-size:.95rem"><a href="../" style="color:#C3D8D6">Research</a></p>
+    <h1>Social-ecological resilience in changing fisheries</h1>
+    <div class="meta-strip">
+      <div><b>System</b>Coupled human-natural systems</div>
+      <div><b>Partners</b>Indigenous, academic, and government partners</div>
+      <div><b>Status</b>Ongoing</div>
+    </div>
+  </div>
+</header>
+```
+
+::: {.wrap}
+::: {.prose}
+
+Fishery resilience emerges from feedbacks between fish, people, and managers, nested within broader social, ecological, and political contexts.
+
+<!-- TODO: Replace this placeholder with a description of the project's questions, methods, and partners. -->
+
+We are interested in collaboratively developing interdisciplinary research that supports more holistic quantitative risk assessments and equitable management and governance of marine, coastal, and freshwater ecosystems.
+
+:::
+:::
+
+`<div style="height:5rem"></div>`{=html}

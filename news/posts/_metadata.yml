@@ -1,0 +1,7 @@
+# Settings shared by every news post
+page-layout: custom
+date-format: "MMMM D, YYYY"
+format:
+  html:
+    template-partials:
+      - ../../_templates/title-block.html

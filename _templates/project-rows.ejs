@@ -1,0 +1,14 @@
+```{=html}
+<div class="rows">
+<% for (const item of items) { %>
+<a class="row-link" href="<%- item.path %>" data-tags="<%= (item.system || []).join ? item.system.join(' ') : (item.system || '') %>" <%= metadataAttrs(item) %>>
+<div>
+<h3><%= item.title %></h3>
+<p><%= item.description %></p>
+</div>
+<span class="partners"><%= item.partners %></span>
+<span class="go" aria-hidden="true"><svg viewBox="0 0 14 14"><path d="M2 7h10M8 3l4 4-4 4"/></svg></span>
+</a>
+<% } %>
+</div>
+```

@@ -1,0 +1,27 @@
+```{=html}
+<%
+const years = [...new Set(items.map(p => p.year))].sort((a, b) => b - a);
+const names = s => (s || '').split(/,\s*/).map(n => ({ lab: /^\*\*.*\*\*$/.test(n), n: n.replace(/\*\*/g, '') }));
+%>
+<div id="papers-list">
+<% years.forEach(y => { %>
+<div class="year-group">
+<h2><%= y %></h2>
+<ul class="pubs">
+<% items.filter(p => p.year === y).forEach(p => { %>
+<li data-tags="<%= (p.topics || []).join(' ') %>">
+<div class="t"><%= p.title %></div>
+<div class="a"><% names(p.authors).forEach((a, k) => { %><%= k ? ', ' : '' %><% if (a.lab) { %><b><%= a.n %></b><% } else { %><%= a.n %><% } %><% }) %></div>
+<div class="j"><%= p.journal %><% if (p.open_access) { %><span class="oa">Open access</span><% } %></div>
+<div class="l">
+<% if (p.doi) { %><a href="https://doi.org/<%- p.doi %>" target="_blank" rel="noopener">DOI</a><% } %>
+<% if (p.pdf) { %><a href="<%- p.pdf %>" target="_blank" rel="noopener">PDF</a><% } %>
+<% if (p.code) { %><a href="<%- p.code %>" target="_blank" rel="noopener">Code &amp; data</a><% } %>
+</div>
+</li>
+<% }) %>
+</ul>
+</div>
+<% }) %>
+</div>
+```

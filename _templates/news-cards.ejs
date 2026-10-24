@@ -1,0 +1,12 @@
+```{=html}
+<div class="news-cards">
+<% for (const item of items) { %>
+<a href="<%- item.path %>" <%= metadataAttrs(item) %>>
+<time datetime="<%= item.date %>"><%= item.date %></time>
+<h3><%= item.title %></h3>
+<% if (item.description) { %><p><%= item.description %></p><% } %>
+<% if (item.image) { %><img src="<%- item.image %>" alt=""><% } %>
+</a>
+<% } %>
+</div>
+```

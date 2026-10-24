@@ -1,0 +1,57 @@
+```{=html}
+<%
+const tones = ['#1F5663','#5E6B2E','#8A3B3F','#2E4F7A','#6B5A2E','#3F6E5E'];
+const initials = n => (n || '').replace(/\(.*?\)/g, '').split(/\s+/).filter(Boolean).map(w => w[0]).slice(0, 2).join('');
+const paras = b => String(b || '').trim().split(/\n\s*\n/).map(t => t.trim()).filter(Boolean);
+const slug = (n, i) => 'bio-' + i + '-' + String(n || '').toLowerCase().replace(/[^a-z0-9]+/g, '-');
+%>
+<div class="people-grid">
+<% items.forEach((p, i) => { %>
+<% if (p.group === 'pi') { %>
+<div class="pi" data-tags="always">
+<div class="avatar" aria-hidden="true"><% if (p.photo) { %><img src="<%- p.photo %>" alt=""><% } else { %><%= initials(p.name) %><% } %></div>
+<div>
+<h3><%= p.name %></h3>
+<div class="role" style="color:var(--accent);font-weight:500"><%= p.role %></div>
+<% paras(p.bio).forEach(t => { %><p><%= t %></p><% }) %>
+<div class="plinks">
+<% (p.links || []).forEach(l => { %><a href="<%- l.url %>"><%= l.label %></a><% }) %>
+</div>
+</div>
+</div>
+<% } else { %>
+<div class="person" data-tags="<%= p.group %>">
+<div class="avatar" style="background:<%= tones[i % tones.length] %>" aria-hidden="true"><% if (p.photo) { %><img src="<%- p.photo %>" alt=""><% } else { %><%= initials(p.name) %><% } %></div>
+<div>
+<strong><%= p.name %></strong>
+<div class="role"><%= p.role %></div>
+<div class="focus"><%= p.focus %></div>
+<div class="plinks">
+<% if (p.bio) { %><button type="button" class="bio-open" data-dialog="<%= slug(p.name, i) %>">Read bio</button><% } %>
+<% (p.links || []).forEach(l => { %><a href="<%- l.url %>"><%= l.label %></a><% }) %>
+</div>
+</div>
+</div>
+<% if (p.bio) { %>
+<dialog class="bio-dialog" id="<%= slug(p.name, i) %>" aria-labelledby="<%= slug(p.name, i) %>-title">
+<div class="bio-head">
+<div class="avatar avatar-lg" style="background:<%= tones[i % tones.length] %>" aria-hidden="true"><% if (p.photo) { %><img src="<%- p.photo %>" alt=""><% } else { %><%= initials(p.name) %><% } %></div>
+<div>
+<h3 id="<%= slug(p.name, i) %>-title"><%= p.name %></h3>
+<div class="role"><%= p.role %></div>
+<% if (p.focus) { %><div class="focus"><%= p.focus %></div><% } %>
+</div>
+<button type="button" class="bio-close" aria-label="Close">
+<svg viewBox="0 0 14 14" aria-hidden="true"><path d="M2 2l10 10M12 2L2 12"/></svg>
+</button>
+</div>
+<div class="bio-body">
+<% paras(p.bio).forEach(t => { %><p><%= t %></p><% }) %>
+</div>
+<% if (p.links && p.links.length) { %><div class="plinks bio-links"><% p.links.forEach(l => { %><a href="<%- l.url %>"><%= l.label %></a><% }) %></div><% } %>
+</dialog>
+<% } %>
+<% } %>
+<% }) %>
+</div>
+```

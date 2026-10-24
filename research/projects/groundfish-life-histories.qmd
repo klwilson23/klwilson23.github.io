@@ -1,0 +1,41 @@
+---
+title: "Life histories of Pacific groundfish"
+description: "How rockfish and other groundfish life histories shift across space and time on Canada's Pacific coast."
+system: [groundfish, people]
+partners: "Central Coast First Nations, CCIRA, government scientists"
+status: "Ongoing"
+order: 2
+page-layout: custom
+---
+
+```{=html}
+<header class="page-head">
+  <div class="wrap">
+    <p style="margin:0 0 1rem;font-family:inherit;font-size:.95rem"><a href="../" style="color:#C3D8D6">Research</a></p>
+    <h1>Life histories of Pacific groundfish</h1>
+    <div class="meta-strip">
+      <div><b>System</b>Groundfish and rockfish</div>
+      <div><b>Partners</b>Central Coast First Nations, CCIRA, government scientists</div>
+      <div><b>Status</b>Ongoing</div>
+    </div>
+  </div>
+</header>
+```
+
+::: {.wrap}
+::: {.prose}
+
+West Coast groundfish, including long-lived rockfish like yelloweye (*Sebastes ruberrimus*), support culturally vital fisheries for Indigenous communities across the Central Coast of British Columbia.
+
+Many rockfish species are at increasing risk of decline from size-selective harvest, overfishing, benthic habitat disturbance, and ocean change. These declines threaten food, social, and ceremonial fisheries for Central Coast First Nations.
+
+## Our work
+
+As large-bodied, long-lived species, groundfish life histories respond to changes in their environments, including fishing. Working with the Central Coast First Nations, academic scientists, and government colleagues, we quantify spatial and temporal patterns in groundfish life histories along Canada's Pacific coast.
+
+This work supports CCIRA and the Central Coast First Nations in ongoing co-governance and fisheries management plans for the rebuilding and recovery of West Coast groundfish.
+
+:::
+:::
+
+`<div style="height:5rem"></div>`{=html}

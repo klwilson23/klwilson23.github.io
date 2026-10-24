@@ -1,0 +1,131 @@
+# ---------------------------------------------------------------
+# Lab members. Order here is the order shown on the page.
+# group: pi | postdoc | grad | undergrad
+# photo: optional, e.g. images/jane-doe.jpg (square, ~400px, stored in people/images/). Initials are shown if blank.
+# ---------------------------------------------------------------
+
+- name: Kyle Wilson (he/him)
+  group: pi
+  role: Assistant Professor, principal investigator
+  photo: images/kyle-photo.jpg
+  bio: |
+    I am an assistant professor in integrated fisheries ecology in the School of Resource and Environmental Management at Simon Fraser University. Currently, I serve as a member of the COSEWIC Marine Fishes Species Specialist Subcommittee, Central Coast MaPP advisory committee, and on technical working groups (salmon/crab/risk benchmarks) under the Fishery Resources Reconciliation Agreement. Prior to SFU, I was the Applied Quantitative Biologist at the Central Coast Indigenous Resource Alliance.
+  links:
+    - label: CV
+      url: ../files/wilson-cv.pdf
+    - label: GitHub
+      url: https://github.com/klwilson23
+    - label: Google Scholar
+      url: https://scholar.google.ca/citations?user=JQtrxYAAAAAJ&hl=en
+
+# ---- PLACEHOLDERS: replace with real members ----
+- name: Hannah Watkins
+  group: postdoc
+  role: Liber Ero Postdoctoral Fellow
+  focus: Understanding Pacific herring ecosystems in Kitasoo Xai'xais territory
+  photo: images/hannah-photo.jpeg
+  links:
+    - label: Website
+      url: https://hannahvwatkins.weebly.com/
+  bio: |
+    Hannah (she/her) is a postdoctoral fellow in the Integrated Fisheries Ecology Lab and the Ocean Relations Collaborative at SFU. She is broadly interested in how quantitative tools can be re-envisioned and applied in ways that support ecologically sustainable and socially just conservation actions. She's stoked on finding ways to bring diverse knowledge systems and data sources together to solve problems. Her current project (Git Qṃsistá, or "People of the moon tipped over") is a collaboration with the Kitasoo Xai'xais Stewardship Authority, DFO, and Oceana Canada, focused on how First Nations and Canada can work together to steward marine resources. Specifically, she is working on understanding the relationships between Pacific herring and their predators, revitalizing Kitasoo Xai'xais restoration practices for herring, and learning from the diverse perspectives on the herring ecosystem in Kitasoo Xai'xais territory to shape how we steward this system into the future.
+    
+    Hannah is a recovering terrestrial ecologist, having worked on lizards, sage-grouse, and leopards in her early days in ecology. She completed her PhD at SFU in 2024, where she focused on all things echinoderm. Her work spanned from modelling the decline of Sunflower Sea Stars in Canada for a COSEWIC assessment, to uncovering patterns of serial depletion in the commercial sea cucumber fishery in British Columbia, to collecting bags of sea cucumber pee.
+  
+- name: Ellyn Davidson
+  group: postdoc
+  role: Postdoctoral Fellow
+  focus: Dungeness crab movement ecology in Kitasoo Xai'xais territory
+  photo: images/Ellyn_photo.jpeg
+  bio: |
+    Ellyn (she/her) is an Ecologist and Postdoctoral Researcher in the Integrated Fisheries Ecology Lab at SFU. She is interested in understanding and modeling the spatial patterns of animals, including movements, and using that information to support conservation and to improve management outcomes. Ellyn completed her PhD at the University of Windsor in 2025 where she used various methodologies (acoustic and satellite telemetry, stable isotope analysis) to investigate the movement ecology of Arctic marine species, including Greenland halibut and porcupine crab, in offshore of Baffin Bay, Nunavut. 
+    
+    During her Master's degree (University Centre of the Westfjords, Iceland) and in work outside of academia (e.g. with CPAWS and WWF-Canada), Ellyn was involved in projects that used spatial data for marine and terrestrial species, including whales, caribou, and fishes, to model habitat use under changing environmental conditions. Her current project is to work collaboratively with Kitasoo Xai’xais First Nation and DFO to track movements of Dungeness crab in Kitasoo Xai’xais territory. 
+  
+- name: Emma Atkinson
+  group: postdoc
+  role: Postdoctoral Fellow
+  focus: Spot prawn fisheries under climate change
+
+- name: Kate Mussett
+  group: grad
+  role: PhD student (REM)
+  focus: Understanding Pacific salmon in Heiltsuk Territory
+  photo: images/Kate-photo.jpg
+  bio: |
+    As a settler-descended ecologist working in service of Indigenous communities’ sovereignty and stewardship, I aim to position my allyship through working in science as a service. Having been raised on the coast of Atlantic Canada, I have always felt called to a career protecting water, its inhabitants, and those who depend on them. From a very early age, I learned about the power that fish and water hold in bringing people together - a lesson which is often overlooked in classic Western scientific research. With these goals in mind, I have dedicated my academic and applied careers to gaining experience in fisheries and aquatic ecology in order to provide technical advice and capacity to First Nations across British Columbia. In focussing on salmon populations across BC’s coast, this has led my research interests and expertise through oceans and rivers, various disciplines, and spatial contexts.
+
+    My Master's degree (University of British Columbia, Centre for Indigenous Fisheries) focused on weaving Indigenous Knowledges and Western science to co-create a biocultural indicator framework for Lower Fraser River region First Nations, with a focus on Pacific salmon habitat. My current PhD research (Simon Fraser University, Integrated Fisheries Ecology Lab) is in partnership with the Heiltsuk Integrated Resource Management Department (HIRMD), and aims to use quantitative methodologies to identify climate indicators of change in salmon populations throughout Heiltuk territories. I come to this work with gratitude and excitement to apply my knowledge to a new context in the Central Coast.
+
+- name: Hutton Noth
+  group: grad
+  role: PhD student (REM)
+  focus: Establishing conservation benchmarks for coho salmon
+  photo: 
+  bio: |
+    I am a PhD student and settler researcher who approaches my work as science for service. I develop quantitative tools and field research that support Indigenous communities in the stewardship of salmon populations and in exercising their rights within federal fisheries management and policy. My time living in a small community on the west coast of Vancouver Island gave me a deep appreciation for the central role salmon play in the cultural, ecological, and economic well-being of coastal communities and ultimately led me to purse a career in fisheries. Working alongside Indigenous communities has since shaped the questions I pursue, grounding my research in priorities identified by the communities I work with.
+    
+    In partnership with Ha’oom Fisheries Society and the Fisheries Resources Reconciliation Agreement, my PhD research addresses a persistent challenge in salmon conservation: how can we understand the status of salmon populations when monitoring data is limited and environmental conditions are rapidly changing? To address these challenges, I am developing habitat-informed benchmarks for coho populations on the West Coast of Vancouver Island and Central Coast of British Columbia, while exploring how these benchmarks can account for changing environmental conditions and be applied across scales. This includes developing benchmarks at the scale individual watersheds and reflect definitions of risk relevant to First Nations stewardship, while also scaling these risks up to broader management units used in federal fisheries management. Ultimately, my research aims to improve our ability to identify populations at risk and respond to salmon declines despite increasing environmental and monitoring uncertainty.
+
+- name: Celeste Kieran
+  group: grad
+  role: PhD student (Biology)
+  photo: images/Celeste-photo.jpg
+  focus: Long-term trends in the marine ecosystem dynamics of Pacific salmon
+  bio: |
+    Celeste is a PhD candidate studying long-term trends in the marine ecosystem dynamics of Pacific salmon.
+
+- name: Lindsay Begemann
+  group: grad
+  role: MRM student (REM)
+  focus: Consequences of salmon fishery closures in the Central Coast
+  photo: images/Lindsay-photo.png
+  bio: |
+    Lindsay (she/her) is a Master's student in the Integrated Fisheries Ecology lab at SFU. In partnership with the Wild Salmon Centre and the Central Coast Indigenous Resource Alliance, her research evaluates the effectiveness of commercial salmon fishery closures on the Central Coast of British Columbia in restoring target and bycatch salmon populations. She integrates quantitative methods, including population modelling and bioeconomic simulations of future harvest and abundance scenarios, with qualitative methods to inform collaborative management of Pacific salmon. 
+    
+    Lindsay graduated from the University of Waterloo with a Bachelor of Environment in 2021 and worked in salmon fisheries management with Fisheries and Oceans Canada before her graduate studies at SFU.
+
+- name: Michelle Fortier
+  group: grad
+  role: MRM student (REM)
+  focus: Shifts in pink and chum salmon migration timing in the Central Coast
+
+- name: Chelsea Bennett
+  group: grad
+  role: MRM student
+  focus: Understanding environmental flow needs in the Deadman Watershed
+  
+- name: Emma Graham
+  group: grad
+  role: MRM student (REM)
+  focus: Managing Fraser River sockeye fisheries against en-route mortality
+  photo: images/emma-graham-photo.jpg
+  bio: |
+    Emma (she/her) is a master’s student in the Integrated Fisheries Ecology Lab and a member of the Aquatic Research Cooperative (ARC) Institute at Simon Fraser University. She graduated with distinction from the University of the Fraser Valley with a Bachelor of Integrated Studies and Geographic Information Systems Certificate. Following completion of her undergraduate degree, Emma worked with the Pacific Salmon Commission (PSC) hydroacoustic team as an assistant fisheries technician.
+
+    The objective of her master’s thesis is to improve the estimates of en route mortality of sockeye salmon (Oncorhynchus nerka) in the Fraser River watershed. Well informed en route mortality estimates are critical to implement management adjustments that accurately capture the discrepancy between potential and actual spawning escapement, in large part due to natural mortality caused by adverse environmental conditions. Improving predictions of these environmental factors (namely temperature and discharge) and quantifying their uncertainty are important aspects of this project, especially in our changing climate. 
+
+- name: Marie Vivet
+  group: grad
+  role: MRM student (REM)
+  focus: Groundfish ecology and fisheries management
+  photo: images/Marie-photo.jpg
+  bio: |
+    Marie (she/her) is a first-year Master’s student in the Resource and Environmental Management program at SFU. As a member of the Integrated Fisheries Ecology Lab, she is particularly interested in using quantitative modelling approaches to support decision-making in fisheries management. For her thesis, Marie is investigating whether current monitoring strategies can reliably detect and estimate expected rockfish recoveries within the marine protected area network (MPAN) being developed for the Northern Shelf Bioregion. Her research aims to provide policy-relevant insights for survey planners by informing effective and realistic MPAN monitoring.
+    
+    Marie completed her Bachelor’s degree in Agricultural and Environmental Sciences at McGill University. During her undergraduate studies, she gained hands-on experience working with birds, insects, mammals, and fish and developed strong data analysis skills in R. Her interest in marine biology was fostered during a two-week field course in St. Andrews, New Brunswick, where she conducted marine mammal surveys and participated in zooplankton tows. In her spare time, Marie enjoys hiking the beautiful trails around Vancouver, exploring tidepools for marine life, and photographing the wildlife she encounters along the way.
+  
+- name: Connor McLeod
+  group: grad
+  role: MRM student (REM)
+  focus: Community based fisheries plannings
+  
+- name: Arianne Nickels
+  group: grad
+  role: MSc student (Biology)
+  focus: Pacific salmon habitat ecology in Heilstuk Territory
+  photo: images/arianne-photo.jpeg
+  bio: |
+    Arianne (she/her) is a first-year Master student in the Department of Biological Sciences, co-supervised by Kyle Wilson and John Reynolds. Her research examines how fall drought events have affected chum and pink salmon populations over the past 20 years in Heiltsuk Territory on the central coast of British Columbia. She is also investigating whether certain stream characteristics have helped buffer salmon populations against drought. 
+    
+    Alongside her graduate research, Arianne leads a long-term salmon monitoring program in collaboration with Raincoast Conservation Foundation and the John Reynolds Lab. Each fall, she leads a field crew based in Bella Bella to count spawning salmon across 25 streams throughout Heiltsuk Territory.

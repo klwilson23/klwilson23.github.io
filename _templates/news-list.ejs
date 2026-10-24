@@ -1,0 +1,14 @@
+```{=html}
+<div class="news-list">
+<% for (const item of items) { %>
+<a class="news-item" href="<%- item.path %>" <%= metadataAttrs(item) %>>
+<time datetime="<%= item.date %>"><%= item.date %></time>
+<div>
+<h3><%= item.title %></h3>
+<% if (item.description) { %><p><%= item.description %></p><% } %>
+</div>
+<% if (item.image) { %><img class="thumb" src="<%- item.image %>" alt=""><% } else { %><span></span><% } %>
+</a>
+<% } %>
+</div>
+```

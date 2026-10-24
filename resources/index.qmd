@@ -1,0 +1,60 @@
+---
+title: "Resources"
+description: "Code, teaching materials, and guides from the Wilson Lab."
+page-layout: custom
+---
+
+```{=html}
+<header class="page-head">
+  <div class="wrap">
+    <h1>Resources</h1>
+    <p>Code, teaching materials, and guides we've found useful, for our lab and anyone else who might benefit.</p>
+  </div>
+</header>
+
+<div class="wrap" style="padding-bottom:6rem">
+
+  <div class="resource-group">
+    <div><h2>Code and data</h2><p>Models and analyses from our papers.</p></div>
+    <ul>
+      <li><a href="https://github.com/klwilson23">Lab GitHub</a><span>Repositories for published analyses, simulation models, and R tools.</span></li>
+      <!-- Add specific repositories, e.g. <li><a href="https://github.com/klwilson23/REPO">Coho status model</a><span>Bayesian time-series model for North and Central Coast coho.</span></li> -->
+    </ul>
+  </div>
+
+  <div class="resource-group">
+    <div><h2>Teaching</h2><p>Courses and workshops taught by Kyle.</p></div>
+    <ul>
+      <li><a href="#">R programming for the biological sciences</a><span>Add a link to course notes or a workshop repository.</span></li>
+      <li><a href="#">Applied Bayesian modelling</a><span>Add a link to course notes or a workshop repository.</span></li>
+      <li><a href="#">Fish population ecology and fisheries management</a><span>Add a link to course materials.</span></li>
+    </ul>
+  </div>
+
+  <div class="resource-group">
+    <div><h2>For lab members</h2><p>How we work together.</p></div>
+    <ul>
+      <li><a href="#">Lab handbook</a><span>Expectations, communication, authorship, data management, and code review. Add a link when ready.</span></li>
+      <li><a href="#">Onboarding checklist</a><span>Accounts, computing, field safety training, and first-week tasks.</span></li>
+    </ul>
+  </div>
+
+  <div class="resource-group">
+    <div><h2>Learning to model</h2><p>Free resources we recommend.</p></div>
+    <ul>
+      <li><a href="https://r4ds.hadley.nz/">R for Data Science</a><span>Free online book for data wrangling and visualization in R.</span></li>
+      <li><a href="https://mc-stan.org/">Stan</a><span>Probabilistic programming language for Bayesian models, with extensive documentation.</span></li>
+      <li><a href="https://quarto.org/">Quarto</a><span>Reproducible documents, papers, and websites, including this one.</span></li>
+    </ul>
+  </div>
+
+  <div class="resource-group">
+    <div><h2>Funding and support</h2><p>For current and prospective students.</p></div>
+    <ul>
+      <li><a href="https://www.nserc-crsng.gc.ca/">NSERC</a><span>Canada's natural sciences and engineering research council, including graduate scholarships.</span></li>
+      <li><a href="https://www.sfu.ca/rem.html">SFU REM</a><span>Graduate programs, awards, and student resources.</span></li>
+    </ul>
+  </div>
+
+</div>
+```

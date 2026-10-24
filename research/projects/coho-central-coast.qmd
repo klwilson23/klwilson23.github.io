@@ -1,0 +1,49 @@
+---
+title: "Collaborative pathways to rebuilding coho salmon on BC's Central Coast"
+description: "A Bayesian time-series model of 52 coho populations to assess status, conservation risk, and pathways to recovery."
+system: [salmon, people]
+partners: "Central Coast Indigenous Resource Alliance"
+status: "Ongoing"
+order: 1
+featured: true
+page-layout: custom
+---
+
+```{=html}
+<header class="page-head">
+  <div class="wrap">
+    <p style="margin:0 0 1rem;font-family:inherit;font-size:.95rem"><a href="../" style="color:#C3D8D6">Research</a></p>
+    <h1>Collaborative pathways to rebuilding coho salmon on BC's Central Coast</h1>
+    <div class="meta-strip">
+      <div><b>System</b>Pacific salmon</div>
+      <div><b>Partners</b>Central Coast Indigenous Resource Alliance</div>
+      <div><b>Status</b>Ongoing</div>
+    </div>
+  </div>
+</header>
+```
+
+::: {.wrap}
+::: {.prose}
+
+The conservation and management of Pacific salmon in Canada faces an uncertain future. As fisheries policy moves into an era of co-governance and reconciliation, many salmon populations continue to decline because of climate-driven regime shifts and legacies of overfishing. These declines highlight the need for risk assessments that inform precautionary management.
+
+Coho salmon along the North and Central Coast (NCC) of British Columbia are one example. Recent declines jeopardize both conservation and fishing opportunities in a fishery that crosses U.S., Canadian, and Indigenous jurisdictions.
+
+## What we did
+
+We developed a Bayesian time-series model to quantify spatial and temporal patterns in population dynamics for 52 coho populations across the NCC. The model estimates fisheries reference points, determines population status, and assesses conservation risk. Forward simulations then tested future productivity trends and harvest management scenarios.
+
+<!-- Add your figure: save it to research/projects/images/, then remove the comment markers from the next line -->
+<!-- ![Coho escapement from the Kasiks River with forward simulations under three management scenarios.](images/coho-population-dynamics.jpeg) -->
+
+## What we found
+
+We documented widespread coho declines driven by shifting productivity regimes that varied by region, and identified conservation concerns for 51% of populations in recent years. The decline coincided with the onset of marine heatwaves in 2014.
+
+Reducing harvest from U.S. and Canadian fisheries can improve short-term recovery, but longer-term recovery depends mostly on future productivity. Harvest management remains one of the few tools that gives coho a safe operating space to adapt to ongoing ecosystem change, and it requires coordinated decisions across international and domestic jurisdictions.
+
+:::
+:::
+
+`<div style="height:5rem"></div>`{=html}

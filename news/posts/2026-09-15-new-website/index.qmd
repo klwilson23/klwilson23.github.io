@@ -1,13 +1,13 @@
 ---
 title: "Our new website"
-description: "The lab has a new home on the web, built with Quarto and hosted on GitHub."
-date: 2026-09-15
+description: "The Integrated Fisheries Ecology Lab has a new home on the website!"
+date: 2026-10-24
 categories: [lab]
 ---
 
 ::: {.wrap .prose style="padding-bottom:6rem"}
 
-Welcome to the new Wilson Lab website. You'll find our [research projects](../../research/), the [people](../../people/) who make the lab, our [papers](../../papers/), and [information for prospective students](../../prospective-students/).
+Welcome to the new Integrated Fisheries Ecology Lab website. Here, you can find our [research projects](../../research/), the [people](../../people/) who make the lab, our [papers](../../papers/), and [information for prospective students](../../prospective-students/).
 
 The site is built with Quarto, so lab members can add news posts and update their own profiles by editing simple text files.
 

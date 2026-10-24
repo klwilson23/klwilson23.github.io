@@ -1,6 +1,6 @@
 ---
 title: "News"
-description: "Papers, awards, fieldwork, and people news from the Wilson Lab."
+description: "Papers, awards, fieldwork, and people news from the Integrated Fisheries Ecology Lab."
 page-layout: custom
 listing:
   id: news

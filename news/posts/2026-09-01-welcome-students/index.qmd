@@ -1,14 +1,12 @@
 ---
-title: "Example post: welcome to our new students"
-description: "Replace this example with a real welcome post for incoming lab members."
+title: "welcome to our new students!"
+description: "Marie Vivet, Connor McLeod, Emma Graham, and Arianne Nickels join the lab."
 date: 2026-09-01
 categories: [people]
 ---
 
 ::: {.wrap .prose style="padding-bottom:6rem"}
 
-This is an example post. Copy this folder, rename it with the date and a short slug (for example `2026-10-03-new-paper`), and edit the text.
-
-Posts can include images, links, and even R code chunks that render figures when the site is built.
+The lab welcomes Marie Vivet (REM MRM, thesis), Connor McLeod (REM MRM, planning), Emma Graham (REM MRM, thesis), and Arianne Nickels (BISC MSc, thesis).
 
 :::

@@ -68,3 +68,5 @@ format:
     smooth-scroll: true
     include-after-body: assets/site-scripts.html
     link-external-newwindow: false
+    include-in-header:
+      text: '<meta name="robots" content="noindex">'

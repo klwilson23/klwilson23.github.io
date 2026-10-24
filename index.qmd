@@ -105,15 +105,15 @@ listing:
     <div class="section-head">
       <div>
         <h2>From the field</h2>
-        <p class="lede" style="margin-top:1rem">Sampling, surveys, and time on the water with our partners.</p>
+        <p class="lede" style="margin-top:1rem">Time on the water, field work, and community visits with our partners.</p>
       </div>
       <a class="textlink" href="news/index.html">More in our news</a>
     </div>
     <div class="photo-strip">
-      <figure><img src="assets/images/field-1.jpg" alt="Describe what is happening in the photo."><figcaption>Short caption. Add a photo credit if you like.</figcaption></figure>
-      <figure><img src="assets/images/field-2.jpg" alt="Describe what is happening in the photo."><figcaption>Short caption.</figcaption></figure>
-      <figure><img src="assets/images/field-3.jpg" alt="Describe what is happening in the photo."><figcaption>Short caption.</figcaption></figure>
-      <figure><img src="assets/images/field-4.jpg" alt="Describe what is happening in the photo."><figcaption>Short caption.</figcaption></figure>
+      <figure><img src="assets/images/field-1.jpg" alt="Hutton Noth (PhD Student) and Michelle Fortier (MRM Student) work with Ha'oom Fisheries Society to survey juvenile coho salmon in the West Coast of Vancouver Island."><figcaption>Hutton Noth (PhD Student) and Michelle Fortier (MRM Student) work with Ha'oom Fisheries Society to survey juvenile coho salmon in the West Coast of Vancouver Island.</figcaption></figure>
+      <figure><img src="assets/images/field-2.jpg" alt="Kate Mussett (PhD Student) handles sockeye salmon at the Koeye River."><figcaption>PhD Student Kate Mussett works alongside alongside members of the Heiltsuk Integrated Resource Management Department to survey sockeye salmon at the Koeye River.</figcaption></figure>
+      <figure><img src="assets/images/field-3.jpg" alt="Members of the FRRA benchmarks subcommitee meet at Kunsoot."><figcaption>Members of the Fisheries Resources ReconciliationA greement salmon benchmarks subcommitee gather at Kunsoot, Bella Bella, BC to discuss holistic and integrative perspectives of risk to Central Coast salmon.</figcaption></figure>
+      <figure><img src="assets/images/field-4.jpg" alt="Hutton Noth tags juvenile salmon in the Kennedy Watershed."><figcaption>Hutton Noth (PhD Student) and staff from Ha'oom Fisheries Society survey juvenile salmon in the Kennedy Watershed on the West Coast of Vancouver Island.</figcaption></figure>
     </div>
   </div>
 </section>
@@ -124,10 +124,10 @@ listing:
     <p class="lede" style="margin-top:1rem">We work alongside Indigenous partners, government researchers, and research groups across Canada.</p>
     <ul class="partners-list">
       <li><strong>Central Coast First Nations</strong><span>Coastal and marine stewardship, co-governance</span></li>
-      <li><strong>Central Coast Indigenous Resource Alliance</strong><span>Salmon and groundfish assessment</span></li>
+      <li><strong>Central Coast Indigenous Resource Alliance</strong><span>Salmon, crab, and groundfish ecology and management</span></li>
+      <li><strong>Ha'oom Fisheries Society</strong><span>Salmon and spot prawn ecology and management</span></li>
       <li><strong>Fisheries Management Lab</strong><span>SFU School of Resource and Environmental Management</span></li>
       <li><strong>Salmon Watersheds Lab</strong><span>Metapopulations and disturbance, SFU</span></li>
-      <li><strong>Earth to Ocean Research Group</strong><span>Simon Fraser University</span></li>
       <li><strong>COSEWIC</strong><span>Marine Fishes Species Specialist Subcommittee</span></li>
     </ul>
   </div>

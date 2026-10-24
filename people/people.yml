@@ -23,7 +23,7 @@
   group: postdoc
   role: Liber Ero Postdoctoral Fellow
   focus: Understanding Pacific herring ecosystems in Kitasoo Xai'xais territory
-  photo: images/hannah-photo.jpeg
+  photo: images/hannah-photo.png
   links:
     - label: Website
       url: https://hannahvwatkins.weebly.com/
@@ -36,7 +36,7 @@
   group: postdoc
   role: Postdoctoral Fellow
   focus: Dungeness crab movement ecology in Kitasoo Xai'xais territory
-  photo: images/Ellyn_photo.jpeg
+  photo: images/ellyn-photo.jpeg
   bio: |
     Ellyn (she/her) is an Ecologist and Postdoctoral Researcher in the Integrated Fisheries Ecology Lab at SFU. She is interested in understanding and modeling the spatial patterns of animals, including movements, and using that information to support conservation and to improve management outcomes. Ellyn completed her PhD at the University of Windsor in 2025 where she used various methodologies (acoustic and satellite telemetry, stable isotope analysis) to investigate the movement ecology of Arctic marine species, including Greenland halibut and porcupine crab, in offshore of Baffin Bay, Nunavut. 
     
@@ -51,7 +51,7 @@
   group: grad
   role: PhD student (REM)
   focus: Understanding Pacific salmon in Heiltsuk Territory
-  photo: images/Kate-photo.jpg
+  photo: images/kate-photo.jpg
   bio: |
     As a settler-descended ecologist working in service of Indigenous communities’ sovereignty and stewardship, I aim to position my allyship through working in science as a service. Having been raised on the coast of Atlantic Canada, I have always felt called to a career protecting water, its inhabitants, and those who depend on them. From a very early age, I learned about the power that fish and water hold in bringing people together - a lesson which is often overlooked in classic Western scientific research. With these goals in mind, I have dedicated my academic and applied careers to gaining experience in fisheries and aquatic ecology in order to provide technical advice and capacity to First Nations across British Columbia. In focussing on salmon populations across BC’s coast, this has led my research interests and expertise through oceans and rivers, various disciplines, and spatial contexts.
 
@@ -60,7 +60,7 @@
 - name: Hutton Noth
   group: grad
   role: PhD student (REM)
-  focus: Establishing conservation benchmarks for coho salmon
+  focus: Estimating conservation benchmarks for coho salmon
   photo: 
   bio: |
     I am a PhD student and settler researcher who approaches my work as science for service. I develop quantitative tools and field research that support Indigenous communities in the stewardship of salmon populations and in exercising their rights within federal fisheries management and policy. My time living in a small community on the west coast of Vancouver Island gave me a deep appreciation for the central role salmon play in the cultural, ecological, and economic well-being of coastal communities and ultimately led me to purse a career in fisheries. Working alongside Indigenous communities has since shaped the questions I pursue, grounding my research in priorities identified by the communities I work with.
@@ -70,7 +70,7 @@
 - name: Celeste Kieran
   group: grad
   role: PhD student (Biology)
-  photo: images/Celeste-photo.jpg
+  photo: images/celeste-photo.jpg
   focus: Long-term trends in the marine ecosystem dynamics of Pacific salmon
   bio: |
     Celeste is a PhD candidate studying long-term trends in the marine ecosystem dynamics of Pacific salmon.
@@ -79,7 +79,7 @@
   group: grad
   role: MRM student (REM)
   focus: Consequences of salmon fishery closures in the Central Coast
-  photo: images/Lindsay-photo.png
+  photo: images/lindsay-photo.png
   bio: |
     Lindsay (she/her) is a Master's student in the Integrated Fisheries Ecology lab at SFU. In partnership with the Wild Salmon Centre and the Central Coast Indigenous Resource Alliance, her research evaluates the effectiveness of commercial salmon fishery closures on the Central Coast of British Columbia in restoring target and bycatch salmon populations. She integrates quantitative methods, including population modelling and bioeconomic simulations of future harvest and abundance scenarios, with qualitative methods to inform collaborative management of Pacific salmon. 
     
@@ -109,7 +109,7 @@
   group: grad
   role: MRM student (REM)
   focus: Groundfish ecology and fisheries management
-  photo: images/Marie-photo.jpg
+  photo: images/marie-photo.jpg
   bio: |
     Marie (she/her) is a first-year Master’s student in the Resource and Environmental Management program at SFU. As a member of the Integrated Fisheries Ecology Lab, she is particularly interested in using quantitative modelling approaches to support decision-making in fisheries management. For her thesis, Marie is investigating whether current monitoring strategies can reliably detect and estimate expected rockfish recoveries within the marine protected area network (MPAN) being developed for the Northern Shelf Bioregion. Her research aims to provide policy-relevant insights for survey planners by informing effective and realistic MPAN monitoring.
     

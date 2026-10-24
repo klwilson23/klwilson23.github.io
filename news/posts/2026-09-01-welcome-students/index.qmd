@@ -1,5 +1,5 @@
 ---
-title: "welcome to our new students!"
+title: "Welcome to our new students!"
 description: "Marie Vivet, Connor McLeod, Emma Graham, and Arianne Nickels join the lab."
 date: 2026-09-01
 categories: [people]

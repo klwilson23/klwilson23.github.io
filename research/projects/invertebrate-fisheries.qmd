@@ -15,7 +15,7 @@ page-layout: custom
     <h1>Dungeness crab and spot prawn in a changing coast</h1>
     <div class="meta-strip">
       <div><b>System</b>Marine invertebrates</div>
-      <div><b>Partners</b>Kitasoo Xai'xais Stewardship Authority, Musgamagw Dzawada'enuxw Fisheries Group, DFO</div>
+      <div><b>Partners</b>Kitasoo Xai'xais Stewardship Authority, Musgamagw Dzawada'enuxw Fisheries Group</div>
       <div><b>Status</b>Active</div>
     </div>
   </div>

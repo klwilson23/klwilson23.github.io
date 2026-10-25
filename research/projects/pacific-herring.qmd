@@ -25,7 +25,7 @@ page-layout: custom
 ::: {.wrap}
 ::: {.prose}
 
-*Git Qṃsistá* means "People of the Moon Tipped Over" — the Kitasoo Xai'xais name for March, when the herring return. The name was given to this project by Sierra Hall and Doug Neasloss, and joins the Kitasoo (Sguuxs) and Xai'xais languages, as the two peoples are joined into one Nation.
+*Git Qṃsistá* means "People of the Moon Tipped Over" - which refers to the March full moon, when the herring return. The name was chosen by the community, and joins the Kitasoo (Sguuxs) and Xai'xais languages, as the two peoples are joined into one Nation.
 
 ![Herring spawn on a hemlock bough. Boughs are set before the spawn and the egg-laden branches then moved to depleted spawning areas.](../../assets/images/herring-egg.JPG)
 
@@ -37,13 +37,13 @@ Regional herring abundance on the Central Coast has declined from its 1980 peak,
 
 **Egg transplants.** Kitasoo Xai'xais youth, Elders, herring fishers, knowledge holders and Stewardship Authority staff set hemlock boughs, await the spawn, and move the egg-laden boughs into spawning sites that have been depleted for a long time. The practice is a long-standing one among coastal First Nations; the project operationalises it and tracks whether transplanted sites re-establish.
 
-**Predation.** We track surf scoter numbers and monitor egg loss in spawning areas, then build bioenergetic and predator–prey models to quantify how much mortality predation actually causes.
+**Predation.** KXSA is tracks surf scoter numbers and monitor egg loss in spawning areas, and we are looking to build bioenergetic and predator–prey models to quantify how much mortality predation actually causes.
 
-**Knowledge weaving and management.** We are compiling Kitasoo Xai'xais knowledge of herring and stewardship practice and pairing it with scientific methods that address different spatial scales of management. The intent is a joint Kitasoo Xai'xais–DFO management plan for herring, built on knowledge co-produced through the project, and performance metrics and benchmarks that reflect ecosystem states Kitasoo Xai'xais actually want.
+**Knowledge weaving and management.** We are pairing Kitasoo Xai'xais knowledge of herring and stewardship practice and  with scientific monitoring to address different spatial scales of management. The intent is a joint Kitasoo Xai'xais–DFO management plan for herring, built on knowledge co-produced through the project, and performance metrics and benchmarks that reflect ecosystem states Kitasoo Xai'xais actually want.
 
 ## Why it matters
 
-This work sits inside the Gitdisdzu Lugyeks (Kitasu Bay) Marine Protected Area, declared under Kitasoo Xai'xais law and now part of the Mia-yaltwa Ha'lidzogm hoon National Marine Conservation Area Reserve. Every decision runs through technical staff at the Kitasoo Xai'xais Stewardship Authority and the Nation's Marine Working Group of Hereditary Chiefs, harvesters, knowledge holders, Matriarchs and political leadership.
+This work sits inside the Gitdisdzu Lugyeks (Kitasu Bay) Marine Protected Area, declared under Kitasoo Xai'xais law and now part of the Mia-yaltwa Ha'lidzogm hoon National Marine Conservation Area Reserve. Research decision runs through technical staff at the Kitasoo Xai'xais Stewardship Authority and the Kitasoo Xai'xais Marine Working Group of Hereditary Chiefs, harvesters, knowledge holders, and Elders.
 
 :::
 :::

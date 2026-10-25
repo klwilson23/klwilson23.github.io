@@ -1,0 +1,51 @@
+---
+title: "Scale transitions in risk assessment"
+description: "Fisheries are managed at aggregate scales but the processes that drive them are local. We study what gets lost in between."
+system: [theory, salmon]
+partners: "Salmon Watersheds Lab SFU, Central Coast Management Council"
+status: "Active"
+order: 5
+page-layout: custom
+---
+
+```{=html}
+<header class="page-head">
+  <div class="wrap">
+    <p style="margin:0 0 1rem;font-family:inherit;font-size:.95rem"><a href="../index.html" style="color:#C3D8D6">Research</a></p>
+    <h1>Scale transitions in risk assessment</h1>
+    <div class="meta-strip">
+      <div><b>System</b>Metapopulations and theory</div>
+      <div><b>Partners</b>Salmon Watersheds Lab SFU, Central Coast Management Council</div>
+      <div><b>Status</b>Active</div>
+    </div>
+  </div>
+</header>
+```
+
+::: {.wrap}
+::: {.prose}
+
+Fisheries are usually managed at aggregated spatial scales, while the processes that actually drive them — density dependence, dispersal, local mortality — operate much finer. The translation between the two is the *scale transition*, and it is one of the fundamental problems in fisheries management. Mismatched scales can let a fishery look sustainable in aggregate while local populations collapse underneath it, or the reverse, producing management actions that generate risk rather than mitigating it.
+
+![Recovery trajectories of disturbed metapopulations, and the modulating roles of productivity, dispersal and network complexity.](../../assets/images/spatial-recoveries.png)
+
+## What we found
+
+We developed a general model of how the resilience of spatially structured populations emerges from the interplay between local dynamics, spatial disturbance and regional dispersal. Whether a disturbance falls evenly across local patches or concentrates on a few turns out to change the aggregate recovery substantially — which helps explain why some endangered populations, such as Chinook salmon or California sea otters, recover more slowly than otherwise anticipated.
+
+> Wilson KL, Sawyer A, Potapova A, Bailey CJ, LoScerbo D, Sweeney-Bergen EK, Hodgson EE, Pitman KJ, Seitz K, Law L, Warkentin L, Wilson SM, Atlas WI, Braun DC, Sloat M, Tinker MT, Moore JW. 2023. The role of spatial structure in at-risk metapopulation recoveries. *Ecological Applications* 33: e2898.
+
+## Where it goes next
+
+The theory is published; the application is not. The open question is what scale transitions mean for *assessment* rather than for recovery dynamics alone:
+
+- How do we monitor and assess risk across biological scales, when status at the population, watershed and regional scale can disagree?
+- Does a reference point calculated on an aggregate behave the way we assume when local populations vary in productivity and connectivity?
+- When does aggregating hide a conservation problem, and when does disaggregating invent one?
+
+We are working these questions through retrospective analyses of Central Coast coho demography at population, watershed and regional scales, and through closed-loop simulations that test whether management strategies hold populations above reference points at every scale, not just the one being reported.
+
+:::
+:::
+
+`<div style="height:5rem"></div>`{=html}

@@ -1,22 +1,22 @@
 ---
-title: "Life histories of Pacific groundfish"
-description: "How rockfish and other groundfish life histories shift across space and time on Canada's Pacific coast."
+title: "Groundfish life histories and spatial protections"
+description: "How rockfish life histories shift across space and time, and whether marine protected areas deliver the recoveries they are designed for."
 system: [groundfish, people]
-partners: "Central Coast First Nations, CCIRA, government scientists"
-status: "Ongoing"
-order: 2
+partners: "Central Coast First Nations, CCIRA, DFO"
+status: "Active"
+order: 4
 page-layout: custom
 ---
 
 ```{=html}
 <header class="page-head">
   <div class="wrap">
-    <p style="margin:0 0 1rem;font-family:inherit;font-size:.95rem"><a href="../" style="color:#C3D8D6">Research</a></p>
-    <h1>Life histories of Pacific groundfish</h1>
+    <p style="margin:0 0 1rem;font-family:inherit;font-size:.95rem"><a href="../index.html" style="color:#C3D8D6">Research</a></p>
+    <h1>Groundfish life histories and spatial protections</h1>
     <div class="meta-strip">
       <div><b>System</b>Groundfish and rockfish</div>
-      <div><b>Partners</b>Central Coast First Nations, CCIRA, government scientists</div>
-      <div><b>Status</b>Ongoing</div>
+      <div><b>Partners</b>Central Coast First Nations, CCIRA, DFO</div>
+      <div><b>Status</b>Active</div>
     </div>
   </div>
 </header>
@@ -25,15 +25,19 @@ page-layout: custom
 ::: {.wrap}
 ::: {.prose}
 
-West Coast groundfish, including long-lived rockfish like yelloweye (*Sebastes ruberrimus*), support culturally vital fisheries for Indigenous communities across the Central Coast of British Columbia.
+Long-lived rockfish like yelloweye (*Sebastes ruberrimus*) support food, social and ceremonial fisheries for Central Coast First Nations. They are also among the species most exposed to size-selective harvest, benthic disturbance and ocean change — and because they live for decades, the consequences of a management decision take decades to read.
 
-Many rockfish species are at increasing risk of decline from size-selective harvest, overfishing, benthic habitat disturbance, and ocean change. These declines threaten food, social, and ceremonial fisheries for Central Coast First Nations.
+## What we are working on
 
-## Our work
+**Do spatial protections work?** In recent decades DFO has managed groundfish with a combination of spatial tools, such as protected areas, and aspatial tools, such as total allowable catch. That combination amounts to a natural experiment across Pacific Canada. Using a regional dataset on relative abundance and body size, we find that groundfish with diverse life histories increase in size and abundance closer to spatial protections, and we are examining whether those protections confer spillover to neighbouring populations.
 
-As large-bodied, long-lived species, groundfish life histories respond to changes in their environments, including fishing. Working with the Central Coast First Nations, academic scientists, and government colleagues, we quantify spatial and temporal patterns in groundfish life histories along Canada's Pacific coast.
+**Life-history variation across the coast.** Groundfish traits respond to their environment, including to fishing. We quantify spatial and temporal patterns in those life histories along Canada's Pacific coast, and relate them to shifting ecosystem drivers such as bottom temperature and oceanographic indices.
 
-This work supports CCIRA and the Central Coast First Nations in ongoing co-governance and fisheries management plans for the rebuilding and recovery of West Coast groundfish.
+**Can we detect a recovery if it happens?** A protected area network is only useful if its monitoring can distinguish a recovery from noise. We are testing whether current monitoring strategies can reliably detect and estimate the rockfish recoveries expected within the marine protected area network being developed for the Northern Shelf Bioregion, with the aim of giving survey planners something realistic to design against.
+
+## Why it matters
+
+Earlier work from this program identified co-occurring hotspots for long-lived rockfishes, glass sponges and corals, and those findings were used to guide spatial planning for the draft MPA Network. This work continues to support CCIRA and Central Coast First Nations in co-governance and in rebuilding plans for West Coast groundfish.
 
 :::
 :::

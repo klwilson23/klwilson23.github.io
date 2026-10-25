@@ -63,13 +63,13 @@ listing:
     <article class="featured">
       <div class="txt">
         <span class="tag">Salmon</span>
-        <h3>Collaborative fisheries management in the Central Coast of Pacific Canada</h3>
+        <h3>Pacific salmon: status, reference points, and rebuilding</h3>
         <p>With the Central Coast Indigenous Resource Alliance, we built a Bayesian time-series model of coho populations across the North and Central Coast to identify the role of time-varying producttivity and harvest management in future recovery trajectories. </p>
         <div class="stat">
           <div>52<small>coho populations modelled</small></div>
           <div>51%<small>of populations raised conservation concerns in recent years</small></div>
         </div>
-        <a class="textlink" href="research/projects/coho-central-coast.html">Read about this project</a>
+        <a class="textlink" href="research/projects/pacific-salmon.html">Read about this project</a>
       </div>
       <div class="fig">
         <img src="assets/images/example-population-dynamics.jpeg" alt="Observed coho spawner abundance with forward simulations fanning out under three harvest scenarios.">

@@ -56,6 +56,7 @@ listing:
         <button class="chip" data-f="all" aria-pressed="true">All</button>
         <button class="chip" data-f="salmon" aria-pressed="false">Salmon</button>
         <button class="chip" data-f="groundfish" aria-pressed="false">Groundfish</button>
+        <button class="chip" data-f="nearshore" aria-pressed="false">Herring &amp; invertebrates</button>
         <button class="chip" data-f="freshwater" aria-pressed="false">Freshwater</button>
         <button class="chip" data-f="people" aria-pressed="false">People &amp; policy</button>
         <button class="chip" data-f="theory" aria-pressed="false">Theory</button>

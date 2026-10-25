@@ -1,0 +1,47 @@
+---
+title: "Inclusive risk assessment in an era of co-governance"
+description: "Reference points encode values, not just biology. We work on assessment frameworks that serve co-governance rather than talking past it."
+system: [people, theory]
+partners: "Fisheries Resources and Reconciliation Agreement, Central Coast Management Council, Kitasoo Xai'xais Stewardship Authority"
+status: "Active"
+order: 6
+page-layout: custom
+---
+
+```{=html}
+<header class="page-head">
+  <div class="wrap">
+    <p style="margin:0 0 1rem;font-family:inherit;font-size:.95rem"><a href="../index.html" style="color:#C3D8D6">Research</a></p>
+    <h1>Inclusive risk assessment in an era of co-governance</h1>
+    <div class="meta-strip">
+      <div><b>System</b>Assessment and policy</div>
+      <div><b>Partners</b>FRRA technical working groups, Central Coast Management Council, KXSA</div>
+      <div><b>Status</b>Active</div>
+    </div>
+  </div>
+</header>
+```
+
+::: {.wrap}
+::: {.prose}
+
+A reference point looks like a biological quantity. It is really an answer to the question *how do we want this fishery to look in the future?* — and that makes it a statement of values, worldview and priority as much as of population dynamics.
+
+That matters because the temporal scales embedded in those values can differ sharply. Abundance-based reference points used to determine status may reflect a baseline already shifted by 150 years of industrialised fishing. Canada's stock assessments still lean heavily on Maximum Sustainable Yield, which is hard to achieve under fluctuating environments and uncertain monitoring, and which has allowed many fisheries to be managed into large declines.
+
+## What we are working on
+
+**Alternative reference points.** We reviewed the reference points commonly used in Pacific Canada assessments and set out how they could be better aligned with Indigenous values and respect toward the ecosystem. We then operationalised those ideas for North and Central Coast coho, evaluating rebuilding not only against MSY-based points but against a benchmark drawn from a period when Indigenous fishers experienced better local catches.
+
+**Management strategy evaluation that includes rightsholders.** MSE is increasingly used in Canada to structure decisions and balance trade-offs, but it can quietly omit Indigenous rightsholders from the process and so perpetuate the inequities it is meant to resolve. We develop closed-loop simulation tools that serve co-governance processes directly, built alongside Indigenous organisations rather than presented to them.
+
+**Trade-offs under uncertainty.** Which conservation and management actions actually balance ecological against socio-economic outcomes, and which are robust when productivity is non-stationary? We test candidate harvest control rules against climate and ecosystem uncertainty to find out.
+
+## Why it matters
+
+The Fish Stocks Provisions under the revised *Fisheries Act* and the *United Nations Declaration on the Rights of Indigenous Peoples Act* together require that management advice be scientific, often quantitative, and inclusive of Indigenous Knowledge. There has been little guidance on how to actually operationalise knowledge pluralism in Canadian fisheries management. This work is our attempt at that guidance, developed through the Fisheries Resources and Reconciliation Agreement — the first collaborative fisheries management agreement in Pacific Canada.
+
+:::
+:::
+
+`<div style="height:5rem"></div>`{=html}

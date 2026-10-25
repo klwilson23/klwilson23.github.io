@@ -1,0 +1,45 @@
+---
+title: "Dungeness crab and spot prawn in a changing coast"
+description: "Movement, habitat use, and the status of marine invertebrate fisheries — the highest-value fisheries in Pacific Canada and the least assessed."
+system: [nearshore, people]
+partners: "Kitasoo Xai'xais First Nation, Musgamagw Dzawada'enuxw Fisheries Group, Coastal Guardian Watchmen, DFO"
+status: "Active"
+order: 3
+page-layout: custom
+---
+
+```{=html}
+<header class="page-head">
+  <div class="wrap">
+    <p style="margin:0 0 1rem;font-family:inherit;font-size:.95rem"><a href="../index.html" style="color:#C3D8D6">Research</a></p>
+    <h1>Dungeness crab and spot prawn in a changing coast</h1>
+    <div class="meta-strip">
+      <div><b>System</b>Marine invertebrates</div>
+      <div><b>Partners</b>Kitasoo Xai'xais, Musgamagw Dzawada'enuxw Fisheries Group, Coastal Guardian Watchmen, DFO</div>
+      <div><b>Status</b>Active</div>
+    </div>
+  </div>
+</header>
+```
+
+::: {.wrap}
+::: {.prose}
+
+Marine invertebrates are the highest-valued group of fisheries in Pacific Canada, and there has been no broad assessment of their status this century. That gap is the starting point for this work.
+
+## What we are working on
+
+**Where crab go, and when.** Working with the Kitasoo Xai'xais First Nation and DFO, we track Dungeness crab movement in Kitasoo Xai'xais territory, including how they use estuaries through the year. Knowing where a population actually is, and when, determines whether a spatial management measure protects anything.
+
+**Spot prawn and the shape of the season.** Spot prawn management currently depends on a coastwide commercial fishery that is intense and brief. That suits commercial fishers; sport and Indigenous fishers may prefer effort spread across the year. Alongside Coastal Guardian Watchmen from Kitasoo Xai'xais and the Musgamagw Dzawada'enuxw Fisheries Group, we study spatial and temporal patterns in prawn density and develop trade-off models for populations subject to pulsed disturbance, to compare management strategies that balance fishing duration against total catch.
+
+**Which species are vulnerable?** We are assessing where invertebrate species sit along a life-history gradient — age and size at maturity, and the traits linked to resilience — to ask whether low-resilience species are being disproportionately harvested, and to evaluate each fishery's risk under climate projections.
+
+## Why it matters
+
+These fisheries matter for food security and for commercial access, and they are managed with far less assessment infrastructure than salmon or groundfish. Building that assessment capacity alongside Guardian Watchmen programs puts the monitoring, and the resulting advice, with the Nations whose territories these fisheries operate in.
+
+:::
+:::
+
+`<div style="height:5rem"></div>`{=html}

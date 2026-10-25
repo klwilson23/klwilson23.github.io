@@ -1,22 +1,22 @@
 ---
-title: "Biodiversity in Canada's lake trout: from ecology to management"
-description: "Growth records from 1,100 lake trout across 30 lakes, some born in the 1950s."
+title: "Life-history diversity in Canada's lake trout"
+description: "Growth records from 1,100 lake trout across 30 lakes, and a social-ecological halo of depletion around the most accessible ones."
 system: [freshwater]
 partners: "BC provincial fisheries data"
-status: "Ongoing"
-order: 3
+status: "Open to a student"
+order: 7
 page-layout: custom
 ---
 
 ```{=html}
 <header class="page-head">
   <div class="wrap">
-    <p style="margin:0 0 1rem;font-family:inherit;font-size:.95rem"><a href="../" style="color:#C3D8D6">Research</a></p>
+    <p style="margin:0 0 1rem;font-family:inherit;font-size:.95rem"><a href="../index.html" style="color:#C3D8D6">Research</a></p>
     <h1>Life-history diversity in Canada's lake trout</h1>
     <div class="meta-strip">
       <div><b>System</b>Freshwater lakes</div>
-      <div><b>Data</b>BC provincial fisheries sampling, 2008–2009</div>
-      <div><b>Status</b>Ongoing</div>
+      <div><b>Partners</b>BC provincial fisheries data</div>
+      <div><b>Status</b>Open to a student — no current funding</div>
     </div>
   </div>
 </header>
@@ -25,14 +25,24 @@ page-layout: custom
 ::: {.wrap}
 ::: {.prose}
 
-In 2008 and 2009, BC provincial fisheries staff sampled 30 lake trout populations, from larger exploited lakes to pristine backcountry and high-alpine lakes. They collected back-calculated size-at-age from 1,100 fish. These fish varied enormously in maximum size, with several over 100 cm in fork length, and in age, with many born in the 1950s.
+In 2008 and 2009, BC provincial fisheries staff sampled 30 lake trout populations, from large exploited lakes to pristine backcountry and high-alpine ones, and collected back-calculated size-at-age from 1,100 fish. Those fish ranged enormously in size, with several over 100 cm, and in age, with many born in the 1950s.
 
-Throughout their range, lake trout have large- and small-bodied morphs, typically linked to diet or post-glacial evolution. These polymorphs may represent a unique contribution to both fisheries and biodiversity conservation.
+![Anglers travel further for better fishing, concentrating size-selective harvest near people and trading body size against abundance.](../../assets/images/angler-behaviour.jpg)
 
-## Questions we're asking
+Earlier work from this dataset showed that warming temperatures, higher lake productivity and increased harvest can all raise somatic growth rates, but that energetic trade-offs between growth and reproduction limit population resilience — and that where people can reach a lake easily, size-selective harvest produces a measurable halo of depletion, favouring smaller fish closest to population centres.
 
-- Are polymorphs present in these 30 lakes, and if so, how many morphs are there? We use a bioenergetic somatic growth model to ask whether a fish belongs to one morph or another.
-- What drives variation in growth over time? We use time-series of climate and fishery infrastructure development to find when, by age or by year, growth conditions changed.
+## What is still open
+
+Throughout their range, lake trout show large- and small-bodied morphs tied to diet or post-glacial evolution. These polymorphs may be a distinct contribution to both fisheries and biodiversity conservation, and the dataset can still answer:
+
+- Are polymorphs present across these 30 lakes, and how many morphs are there? A bioenergetic von Bertalanffy model can test whether a given fish belongs to one morph or another.
+- What drives variation in growth over time? Time series of climate and fishery infrastructure development can locate when, by age or by year, growth conditions changed.
+
+::: {.callout-lab}
+### Looking for a student
+
+This project has no current funding and is not an active priority of the lab, but the data are in hand and the questions are good. If you are a prospective student interested in freshwater life-history variation and want to build a thesis around it, [get in touch](../../prospective-students/index.html#get-in-touch).
+:::
 
 :::
 :::

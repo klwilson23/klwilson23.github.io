@@ -1,0 +1,50 @@
+---
+title: "Pacific salmon: status, reference points, and rebuilding"
+description: "Assessing the status of salmon populations and testing which management actions actually rebuild them, with Central Coast and West Coast Nations."
+system: [salmon, people]
+partners: "Heiltsuk, Nuxalk, Wuikinuxv and Kitasoo Xai'xais Nations, CCIRA, Ha'oom Fisheries Society, DFO"
+status: "Active"
+order: 1
+featured: true
+page-layout: custom
+---
+
+```{=html}
+<header class="page-head">
+  <div class="wrap">
+    <p style="margin:0 0 1rem;font-family:inherit;font-size:.95rem"><a href="../index.html" style="color:#C3D8D6">Research</a></p>
+    <h1>Pacific salmon: status, reference points, and rebuilding</h1>
+    <div class="meta-strip">
+      <div><b>System</b>Pacific salmon</div>
+      <div><b>Partners</b>Central Coast and West Coast Nations, CCIRA, Ha'oom Fisheries Society, DFO</div>
+      <div><b>Status</b>Active</div>
+    </div>
+  </div>
+</header>
+```
+
+::: {.wrap}
+::: {.prose}
+
+Pacific salmon fisheries in Canada are entering an era of co-governance at the same moment that many populations are declining under climate-driven regime shifts and the legacy of a century of fishing. Both things are true at once, and that is the problem our salmon work is built around: how do you judge the status of a population, and choose a rebuilding strategy, when the environment underneath it will not sit still?
+
+![Spawner abundance for coho salmon in the Kasiks River, with forward simulations under alternative harvest management scenarios.](../../assets/images/example-population-dynamics.jpeg)
+
+## What we are working on
+
+**Status and reference points.** We build Bayesian time-series and state-space models to estimate productivity, abundance and conservation risk for salmon populations, and to ask what reference points those estimates should be judged against. Our assessment of 52 coho populations on the North and Central Coast found widespread declines coinciding with the onset of marine heatwaves in 2014, and conservation concerns for roughly half of the populations in recent years.
+
+**Habitat-based benchmarks.** Many populations have too little monitoring data to assess conventionally. We are developing benchmarks built from available freshwater habitat, linking juvenile outmigration to future adult returns, so that status can be assessed at the scale of individual watersheds as well as the larger management units used in federal policy.
+
+**Does management work?** Closures, harvest reductions and spatial measures are all used to rebuild salmon, but their effectiveness is rarely tested directly. We use closed-loop simulation to evaluate how harvest control rules and conservation actions perform under non-stationary productivity, and what they cost different fishers.
+
+**Shifting phenology.** Pink and chum migration timing appears to be moving. We combine long-term escapement records with field surveys across Central Coast watersheds to ask whether this is driven by drought, heatwaves, hydrology or harvest, and what it means for stewardship offices planning enhancement and restoration.
+
+## Why it matters
+
+These fisheries cross international, federal and Indigenous jurisdictions, so the same population can be assessed three different ways and managed to three different standards. Our findings on North and Central Coast coho informed fishery closures intended to rebuild those populations, and this work feeds directly into the Central Coast Management Council and technical working groups under the Fisheries Resources and Reconciliation Agreement.
+
+:::
+:::
+
+`<div style="height:5rem"></div>`{=html}

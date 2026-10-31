@@ -1,0 +1,69 @@
+---
+title: "What makes an exploited population resilient?"
+description: "Building compensation from first principles — life history, plasticity and density dependence — to ask where sustainable harvest actually comes from."
+system: [theory]
+partners: "John Post, Robert Arlinghaus, Hillary Ward, and others"
+status: "Active — open to students"
+order: 6
+page-layout: custom
+---
+
+```{=html}
+<header class="page-head">
+  <div class="wrap">
+    <p style="margin:0 0 1rem;font-family:inherit;font-size:.95rem"><a href="../index.html" style="color:#C3D8D6">Research</a></p>
+    <h1>What makes an exploited population resilient?</h1>
+    <div class="meta-strip">
+      <div><b>System</b>Theory and population dynamics</div>
+      <div><b>Partners</b>University of Calgary, BC Ministry of Forests, Leibniz-IGB Berlin</div>
+      <div><b>Status</b>Active — open to students</div>
+    </div>
+  </div>
+</header>
+```
+
+::: {.wrap}
+::: {.prose}
+
+Every harvest policy in the world rests on compensation: the idea that a fished population responds to declines by growing, surviving or reproducing better, and that somewhere in that response is a sweet spot where yield is highest and the stock persists. Reference points, harvest control rules and rebuilding targets are all downstream of it.
+
+Yet the relationship between spawning stock and the recruits it produces is routinely described as the great unresolved problem in fisheries ecology. In practice we usually *assume* its shape — fitting a Beverton–Holt or a Ricker curve — and then read resilience off the fitted parameters. The shape is an input, not a result.
+
+## Deriving the curve instead of assuming it
+
+We take the opposite approach: build a size- and age-structured population from its ecological parts, and see what stock–recruitment relationship emerges. The parts that matter are the ones individual fish actually experience — how cohorts compete for food, whether competition is size-structured, and how maturation responds plastically to growth, with age or size at maturity free to shift. We then run those processes across a **pace-of-life gradient**, from fast populations with high adult mortality and few age classes to slow ones that live long, mature late and grow large.
+
+The shape of the recruitment curve turns out to be an emergent property of that machinery. A dome-shaped relationship appears most strongly where every cohort competes density-dependently, maturation age is plastic, and the pace of life is slow. An asymptotic relationship emerges at faster pace of life with size-structured exploitative competition. Which curve a population "has" is a consequence of its biology, not a modelling convention.
+
+## Resilience is two things, and they pull against each other
+
+This is the result that most interests us. Conventional wisdom holds that slow, long-lived, late-maturing species are less resilient to fishing, and in one sense that is right: they support lower fishing mortality at maximum sustainable yield. But their drawn-out demography makes them *more* resistant once abundance is low, with higher steepness and higher compensation ratios, and they tolerate more fishing mortality relative to their natural mortality than fast species do.
+
+So resilience has at least two components — the magnitude of harvest a population can sustain, and the compensatory strength that pulls it back from low abundance — and across the pace-of-life gradient those two move in opposite directions. A single index cannot carry both. Which means that whenever we call a species "resilient", we have quietly chosen one of them, and the reference points we derive inherit that choice.
+
+We also find that environmental noise is not transmitted neutrally. Random variation in early-life survival is amplified in slow populations when size at maturation is plastic, and dampened when age at maturation is plastic instead. Much of the recruitment variability attributed to the environment may be filtered, before we ever observe it, by the population's own life history.
+
+## Where this goes next
+
+This is a theoretical programme with a lot of open ground, and it is one of the places where a student can contribute quickly:
+
+- **Beyond the standard teleost.** The work so far covers fishes that spawn many small eggs annually with little parental investment. Species with large eggs and parental care, very fast tropical life histories, and elasmobranchs with their few, well-provisioned young are unexplored, and may not behave the same way.
+- **Egg size and number.** Folding the energetic trade-off between egg size and egg number into the pace-of-life axis would broaden it considerably.
+- **Ecosystems, not populations.** We held predator–prey dynamics aside. Compensation inside a food web is a harder and more realistic problem.
+- **Eco-evolutionary feedback.** We treated life-history traits as sitting at an evolutionary equilibrium and exposed that equilibrium to new ecological conditions. In a fished population traits are themselves under selection, and the landscape moves.
+- **Across scales.** Compensation derived for a single well-mixed population is not obviously the compensation of an aggregate of connected ones — the link to our work on [scale transitions](scale-transitions.html).
+
+## Why it matters
+
+If resilience indices and reference points are emergent properties of life history rather than free parameters, then theory can supply informative priors for them — including for the many populations with too little data to estimate them directly. That is the practical payoff: a principled way to say what a stock–recruitment relationship for a given kind of fish should plausibly look like, before any data arrive.
+
+::: {.callout-lab}
+### Interested in the theory?
+
+Much of this work is simulation and analysis rather than fieldwork, and it suits students who enjoy building models and thinking about why populations behave as they do. If that sounds like you, [get in touch](../../prospective-students/index.html#get-in-touch).
+:::
+
+:::
+:::
+
+`<div style="height:5rem"></div>`{=html}

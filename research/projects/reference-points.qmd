@@ -4,7 +4,7 @@ description: "Reference points encode values, not just biology. We work on asses
 system: [people, theory]
 partners: "Fisheries Resources and Reconciliation Agreement, Central Coast Management Council, Kitasoo Xai'xais Stewardship Authority"
 status: "Active"
-order: 6
+order: 7
 page-layout: custom
 ---
 

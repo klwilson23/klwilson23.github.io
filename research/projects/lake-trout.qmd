@@ -4,7 +4,7 @@ description: "Growth records from 1,100 lake trout across 30 lakes, and a social
 system: [freshwater]
 partners: "BC provincial fisheries data"
 status: "Open to a student"
-order: 7
+order: 8
 page-layout: custom
 ---
 

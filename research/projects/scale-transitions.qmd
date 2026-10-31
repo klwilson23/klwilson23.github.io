@@ -1,9 +1,9 @@
 ---
-title: "Scale transitions in risk assessment"
-description: "Fisheries are managed at aggregate scales but the processes that drive them are local. We study what gets lost in between."
+title: "Scale transitions in population dynamics"
+description: "Local processes are nonlinear and patchy; aggregate dynamics are not their average. We study what happens in between these scales, and what risks arise from ignoring it."
 system: [theory, salmon]
-partners: "Salmon Watersheds Lab SFU, Central Coast Management Council"
-status: "Active"
+partners: "Salmon Watersheds Lab SFU, Central Coast Management Council, COSEWIC Marine Fishes SSC, DFO Science"
+status: "Active — open to students"
 order: 5
 page-layout: custom
 ---
@@ -12,11 +12,11 @@ page-layout: custom
 <header class="page-head">
   <div class="wrap">
     <p style="margin:0 0 1rem;font-family:inherit;font-size:.95rem"><a href="../index.html" style="color:#C3D8D6">Research</a></p>
-    <h1>Scale transitions in risk assessment</h1>
+    <h1>Scale transitions in population dynamics</h1>
     <div class="meta-strip">
-      <div><b>System</b>Metapopulations and theory</div>
+      <div><b>System</b>Population and metapopulation theory</div>
       <div><b>Partners</b>Salmon Watersheds Lab SFU, Central Coast Management Council</div>
-      <div><b>Status</b>Active</div>
+      <div><b>Status</b>Active — open to students</div>
     </div>
   </div>
 </header>
@@ -25,25 +25,30 @@ page-layout: custom
 ::: {.wrap}
 ::: {.prose}
 
-Fisheries are usually managed at aggregated spatial scales, while the processes that actually drive them — density dependence, dispersal, local mortality — operate much finer. The translation between the two is the *scale transition*, and it is one of the fundamental problems in fisheries management. Mismatched scales can let a fishery look sustainable in aggregate while local populations collapse underneath it, or the reverse, producing management actions that generate risk rather than mitigating it.
+The processes that govern a fish population — density-dependent growth and survival, dispersal, local mortality — operate at the scale of a stream reach or a reef. The quantities we actually model, monitor and manage are aggregates: a conservation unit, a stock, a management area. Moving between those two scales is not a matter of averaging. Because local processes are nonlinear, the dynamics of the aggregate are systematically *not* the dynamics of its average component. That discrepancy is the **scale transition**, and it is one of the deep structural problems in population ecology.
+
+![Local density-dependent recruitment does not aggregate cleanly. Whether disturbance falls evenly or unevenly across patches changes the recruitment curve of the whole.](../../assets/images/spatial-density-dependence.png)
+
+## What we have shown
+
+We built a general model of how the behaviour of a spatially structured population emerges from the interplay between local dynamics, spatial disturbance and regional dispersal. Whether a disturbance is spread evenly across local patches or concentrated on a few changes the aggregate recovery substantially, and productivity, dispersal and network topology each modulate that outcome. This helps explain why some depleted populations — Chinook salmon, California sea otters, Snake River stocks — recover more slowly than their aggregate demography predicts.
 
 ![Recovery trajectories of disturbed metapopulations, and the modulating roles of productivity, dispersal and network complexity.](../../assets/images/spatial-recoveries.png)
 
-## What we found
-
-We developed a general model of how the resilience of spatially structured populations emerges from the interplay between local dynamics, spatial disturbance and regional dispersal. Whether a disturbance falls evenly across local patches or concentrates on a few turns out to change the aggregate recovery substantially — which helps explain why some endangered populations, such as Chinook salmon or California sea otters, recover more slowly than otherwise anticipated.
-
 > Wilson KL, Sawyer A, Potapova A, Bailey CJ, LoScerbo D, Sweeney-Bergen EK, Hodgson EE, Pitman KJ, Seitz K, Law L, Warkentin L, Wilson SM, Atlas WI, Braun DC, Sloat M, Tinker MT, Moore JW. 2023. The role of spatial structure in at-risk metapopulation recoveries. *Ecological Applications* 33: e2898.
 
-## Where it goes next
+## Open questions
 
-The theory is published; the application is not. The open question is what scale transitions mean for *assessment* rather than for recovery dynamics alone:
+Our working theoretical framework is published; but many of the consequences are still not worked out. We are interested in:
 
-- How do we monitor and assess risk across biological scales, when status at the population, watershed and regional scale can disagree?
-- Does a reference point calculated on an aggregate behave the way we assume when local populations vary in productivity and connectivity?
-- When does aggregating hide a conservation problem, and when does disaggregating invent one?
+- **Aggregated stock and recruitment.** A stock–recruitment relationship fitted to an aggregate is a mixture of local relationships that differ in productivity, capacity and connectivity. What does its shape actually represent, and when does it mislead?
+- **Emergent compensation.** Compensation measured on the aggregate need not be the compensation operating anywhere in particular. This connects directly to our work on [resilience in exploited populations](resilience-theory.html), where compensation is built from the individual upward rather than fitted from the top down.
+- **Non-stationary connectivity.** Dispersal and habitat networks are themselves changing. How do recovery expectations shift when the network is not fixed?
+- **What scale should we assess at?** Status at the population, watershed and regional scale can disagree with each other and still all be correct. Deciding which one a management action should answer to is a scientific question as much as a policy one.
 
-We are working these questions through retrospective analyses of Central Coast coho demography at population, watershed and regional scales, and through closed-loop simulations that test whether management strategies hold populations above reference points at every scale, not just the one being reported.
+We are pursuing these through retrospective analyses of Central Coast coho demography at population, watershed and regional scales, and through simulations that test whether management strategies hold populations above reference points at *every* scale rather than only the one being reported.
+
+This is a strand of the lab with more good questions than people, and the theory travels well beyond salmon. If you are a prospective student drawn to spatial population dynamics, [get in touch](../../prospective-students/index.html#get-in-touch).
 
 :::
 :::

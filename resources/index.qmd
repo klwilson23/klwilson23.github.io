@@ -1,6 +1,6 @@
 ---
 title: "Resources"
-description: "Code, teaching materials, and guides from the Wilson Lab."
+description: "Courses, code, and the tools and reading we point students toward."
 page-layout: custom
 ---
 
@@ -8,51 +8,71 @@ page-layout: custom
 <header class="page-head">
   <div class="wrap">
     <h1>Resources</h1>
-    <p>Code, teaching materials, and guides we've found useful, for our lab and anyone else who might benefit.</p>
+    <p>Courses, code, and the tools and reading we point students toward.</p>
   </div>
 </header>
 
 <div class="wrap" style="padding-bottom:6rem">
 
   <div class="resource-group">
-    <div><h2>Code and data</h2><p>Models and analyses from our papers.</p></div>
+    <div><h2>Teaching</h2><p>Kyle teaches across three levels of the REM curriculum, built around the idea that environmental management is decision-making under uncertainty, and has taught field courses at Bamfield.</p></div>
     <ul>
-      <li><a href="https://github.com/klwilson23">Lab GitHub</a><span>Repositories for published analyses, simulation models, and R tools.</span></li>
-      <!-- Add specific repositories, e.g. <li><a href="https://github.com/klwilson23/REPO">Coho status model</a><span>Bayesian time-series model for North and Central Coast coho.</span></li> -->
+      <li><a href="https://www.sfu.ca/students/calendar/2027/spring/courses/rem/100.html">REM 100 — Global Change</a><span>First-year. How the global environment is changing, why environmental decisions are hard, and how solutions get enacted at global and local scales.</span></li>
+      <li><a href="https://www.sfu.ca/students/calendar/2027/spring/courses/rem/325.html">REM 325 — Uncertainty, Risk, and Decision Analysis</a><span>Third and fourth year. A formal framework for making defensible decisions when our understanding of social-ecological systems is incomplete.</span></li>
+      <li><a href="https://www.sfu.ca/students/calendar/2027/spring/courses/rem/423/">REM 423 — Research Methods in Fisheries Assessment</a><span>Fourth year. Building and applying fish population dynamics models, analysing data, and quantifying uncertainty. Assignments replicate real British Columbia fisheries assessments.</span></li>
+      <li><a href="https://www.sfu.ca/students/calendar/2027/spring/courses/rem/613/">REM 613 — Methods in Fisheries Assessment</a><span>The graduate section of REM 423, taught simultaneously with different expectations and assessment.</span></li>
+      <li><a href="https://www.sfu.ca/students/calendar/2027/spring/courses/rem/625/">REM 625 — Risk Assessment and Decision Analysis</a><span>Graduate. Quantitative methods for handling uncertainty in natural resource management, and for communicating risk to managers, scientists, and the public.</span></li>
+      <li><a href="https://bamfieldmsc.com/education/faculty/visiting-teaching-faculty/kyle-wilson/">Bamfield Marine Sciences Centre</a><span>Visiting teaching faculty. <em>Ecological Models &amp; Data</em>, taught twice at Bamfield.</span></li>
+      <li><a href="https://github.com/klwilson23/bmsc-emd">Ecological Models &amp; Data — course materials</a><span>Lectures, code, and assignments from the Bamfield course, openly available.</span></li>
     </ul>
   </div>
 
   <div class="resource-group">
-    <div><h2>Teaching</h2><p>Courses and workshops taught by Kyle.</p></div>
+    <div><h2>Code and tools</h2><p>Analyses from our papers, and modelling tools we help build or use.</p></div>
     <ul>
-      <li><a href="#">R programming for the biological sciences</a><span>Add a link to course notes or a workshop repository.</span></li>
-      <li><a href="#">Applied Bayesian modelling</a><span>Add a link to course notes or a workshop repository.</span></li>
-      <li><a href="#">Fish population ecology and fisheries management</a><span>Add a link to course materials.</span></li>
+      <li><a href="https://github.com/klwilson23?tab=repositories">Kyle's GitHub repositories</a><span>Published analyses, simulation models, and R tools from the lab.</span></li>
+      <li><a href="https://essatech.github.io/CEMPRA/">CEMPRA</a><span>An open-source R package and Shiny app linking environmental pressures to the capacity and productivity of a target species, built for prioritising recovery actions where data are limited.</span></li>
+      <li><a href="https://essa.shinyapps.io/JoeModelCEShiny/">Joe Model — cumulative effects app</a><span>The cumulative-effects component of CEMPRA, usable in the browser without installing anything.</span></li>
     </ul>
   </div>
 
   <div class="resource-group">
-    <div><h2>For lab members</h2><p>How we work together.</p></div>
+    <div><h2>Learning to model</h2><p>The resources we most often hand to new students. All free.</p></div>
     <ul>
-      <li><a href="#">Lab handbook</a><span>Expectations, communication, authorship, data management, and code review. Add a link when ready.</span></li>
-      <li><a href="#">Onboarding checklist</a><span>Accounts, computing, field safety training, and first-week tasks.</span></li>
+      <li><a href="https://github.com/rmcelreath/rethinking">Statistical Rethinking</a><span>Richard McElreath's course and R package. The best available introduction to Bayesian inference for ecologists, and the one we start people on.</span></li>
+      <li><a href="https://bookdown.org/content/70a06054-8138-4d90-aaa0-895f57aab1b4/">Statistical Rethinking with brms and the tidyverse</a><span>A. Solomon Kurz's companion translating the book's models into brms, ggplot2, and tidyverse code.</span></li>
+      <li><a href="https://atsa-es.github.io/atsa/">Applied Time Series Analysis (FISH 550)</a><span>Holmes, Ward, and Scheuerell's University of Washington course on time series in fisheries and environmental science. Syllabus, lectures, and datasets.</span></li>
+      <li><a href="https://atsa-es.github.io/atsa-labs/">ATSA computer labs</a><span>The accompanying lab book, worked through in R.</span></li>
+      <li><a href="https://bayesbaes.github.io/">Bayes BAES</a><span>A friendly introduction to Bayesian methods from Hannah Watkins, a postdoctoral fellow in our lab, and Helen Yan.</span></li>
     </ul>
   </div>
 
   <div class="resource-group">
-    <div><h2>Learning to model</h2><p>Free resources we recommend.</p></div>
+    <div><h2>Data</h2><p>Open data we use and recommend.</p></div>
     <ul>
-      <li><a href="https://r4ds.hadley.nz/">R for Data Science</a><span>Free online book for data wrangling and visualization in R.</span></li>
-      <li><a href="https://mc-stan.org/">Stan</a><span>Probabilistic programming language for Bayesian models, with extensive documentation.</span></li>
-      <li><a href="https://quarto.org/">Quarto</a><span>Reproducible documents, papers, and websites, including this one.</span></li>
+      <li><a href="https://www.salmonexplorer.ca/">Pacific Salmon Explorer</a><span>Population status, habitat, and biological data for salmon across British Columbia, from the Pacific Salmon Foundation.</span></li>
     </ul>
   </div>
 
   <div class="resource-group">
-    <div><h2>Funding and support</h2><p>For current and prospective students.</p></div>
+    <div><h2>Funding and graduate study</h2><p>Where our students and postdocs find support. We help with these applications.</p></div>
     <ul>
-      <li><a href="https://www.nserc-crsng.gc.ca/">NSERC</a><span>Canada's natural sciences and engineering research council, including graduate scholarships.</span></li>
-      <li><a href="https://www.sfu.ca/rem.html">SFU REM</a><span>Graduate programs, awards, and student resources.</span></li>
+      <li><a href="https://www.sfu.ca/rem/prospective-students/graduate-students.html">SFU REM graduate programs</a><span>Program structure, requirements, and application deadlines for the MRM and PhD.</span></li>
+      <li><a href="https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-masters-program">NSERC CGS — Master's</a><span>The main national scholarship for incoming master's students.</span></li>
+      <li><a href="https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-doctoral-program">NSERC CGS — Doctoral</a><span>The doctoral equivalent, for students entering or already in a PhD.</span></li>
+      <li><a href="https://nserc-crsng.canada.ca/en/funding-opportunity/canada-postdoctoral-research-award-program">NSERC Postdoctoral Fellowships</a><span>National postdoctoral support. We are glad to co-develop an application.</span></li>
+      <li><a href="https://liberero.ca/fellowship-details/">Liber Ero Fellowship</a><span>Postdoctoral fellowships for applied conservation research in Canada, with a strong emphasis on partnership and policy impact.</span></li>
+    </ul>
+  </div>
+
+  <div class="resource-group">
+    <div><h2>Partners</h2><p>The organisations we work alongside.</p></div>
+    <ul>
+      <li><a href="https://www.ccira.ca">Central Coast Indigenous Resource Alliance</a><span>Indigenous-led marine stewardship serving the Central Coast Nations.</span></li>
+      <li><a href="https://klemtu.com/">Kitasoo Xai'xais First Nation</a><span>Our partners in Klemtu on Pacific herring, Dungeness crab, and marine stewardship.</span></li>
+      <li><a href="https://www.haoom.ca/">Ha'oom Fisheries Society</a><span>Supporting the Nuu-chah-nulth Nations in revitalising their fisheries on the West Coast of Vancouver Island.</span></li>
+      <li><a href="https://mdfgfisheries.ca/">Musgamagw Dzawada'enuxw Fisheries Group</a><span>Fisheries management and stewardship in Musgamagw Dzawada'enuxw territory.</span></li>
+      <li><a href="https://psf.ca/">Pacific Salmon Foundation</a><span>Salmon conservation, research funding, and the data behind the Pacific Salmon Explorer.</span></li>
     </ul>
   </div>
 

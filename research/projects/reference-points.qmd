@@ -25,7 +25,7 @@ page-layout: custom
 ::: {.wrap}
 ::: {.prose}
 
-A reference point looks like a biological quantity. It is really an answer to the question *how do we want this fishery to look in the future?* — and that makes it a statement of values, worldview and priority as much as of population dynamics.
+A reference point looks like a biological quantity. It is really an answer to the question *how do we want this fishery to look in the future?* That makes it a statement of values, worldview and priority as much as of population dynamics.
 
 That matters because the temporal scales embedded in those values can differ sharply. Abundance-based reference points used to determine status may reflect a baseline already shifted by 150 years of industrialised fishing. Canada's stock assessments still lean heavily on Maximum Sustainable Yield, which is hard to achieve under fluctuating environments and uncertain monitoring, and which has allowed many fisheries to be managed into large declines.
 
@@ -39,7 +39,7 @@ That matters because the temporal scales embedded in those values can differ sha
 
 ## Why it matters
 
-The Fish Stocks Provisions under the revised *Fisheries Act* and the *United Nations Declaration on the Rights of Indigenous Peoples Act* together require that management advice be scientific, often quantitative, and inclusive of Indigenous Knowledge. There has been little guidance on how to actually operationalise knowledge pluralism in Canadian fisheries management. This work is our attempt at that guidance, developed through the Fisheries Resources and Reconciliation Agreement — the first collaborative fisheries management agreement in Pacific Canada.
+The Fish Stocks Provisions under the revised *Fisheries Act* and the *United Nations Declaration on the Rights of Indigenous Peoples Act* together require that management advice be scientific, often quantitative, and inclusive of Indigenous Knowledge. There has been little guidance on how to actually operationalise knowledge pluralism in Canadian fisheries management. This work is our attempt at that guidance, developed through the Fisheries Resources and Reconciliation Agreement, the first collaborative fisheries management agreement in Pacific Canada.
 
 :::
 :::

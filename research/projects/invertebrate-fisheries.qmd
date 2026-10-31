@@ -1,6 +1,6 @@
 ---
 title: "Dungeness crab and spot prawn in a changing coast"
-description: "Movement, habitat use, and the status of marine invertebrate fisheries — the highest-value fisheries in Pacific Canada and the least assessed."
+description: "Movement, habitat use, and the status of marine invertebrate fisheries: the highest-value fisheries in Pacific Canada and the least assessed."
 system: [nearshore, people]
 partners: "Kitasoo Xai'xais First Nation, Musgamagw Dzawada'enuxw Fisheries Group, Coastal Guardian Watchmen, DFO"
 status: "Active"
@@ -33,7 +33,7 @@ Marine invertebrates are the highest-valued group of fisheries in Pacific Canada
 
 **Spot prawn and the shape of the season.** Spot prawn management currently depends on a coastwide commercial fishery that is intense and brief. That suits commercial fishers; sport and Indigenous fishers may prefer effort spread across the year. Alongside Coastal Guardian Watchmen from Kitasoo Xai'xais and the Musgamagw Dzawada'enuxw Fisheries Group, we study spatial and temporal patterns in prawn density and develop trade-off models for populations subject to pulsed disturbance, to compare management strategies that balance fishing duration against total catch.
 
-**Which species are vulnerable?** We are assessing where invertebrate species sit along a life-history gradient — age and size at maturity, and the traits linked to resilience — to ask whether low-resilience species are being disproportionately harvested, and to evaluate each fishery's risk under climate projections.
+**Which species are vulnerable?** We are assessing where invertebrate species sit along a life-history gradient (age and size at maturity, and the traits linked to resilience) to ask whether low-resilience species are being disproportionately harvested, and to evaluate each fishery's risk under climate projections.
 
 ## Why it matters
 

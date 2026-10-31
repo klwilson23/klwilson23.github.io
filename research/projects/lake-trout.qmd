@@ -16,7 +16,7 @@ page-layout: custom
     <div class="meta-strip">
       <div><b>System</b>Freshwater lakes</div>
       <div><b>Partners</b>BC provincial fisheries data</div>
-      <div><b>Status</b>Open to a student — no current funding</div>
+      <div><b>Status</b>Open to a student, no current funding</div>
     </div>
   </div>
 </header>
@@ -29,7 +29,7 @@ In 2008 and 2009, BC provincial fisheries staff sampled 30 lake trout population
 
 ![Anglers travel further for better fishing, concentrating size-selective harvest near people and trading body size against abundance.](../../assets/images/angler-behaviour.jpg)
 
-Earlier work from this dataset showed that warming temperatures, higher lake productivity and increased harvest can all raise somatic growth rates, but that energetic trade-offs between growth and reproduction limit population resilience — and that where people can reach a lake easily, size-selective harvest produces a measurable halo of depletion, favouring smaller fish closest to population centres.
+Earlier work from this dataset showed that warming temperatures, higher lake productivity and increased harvest can all raise somatic growth rates, but that energetic trade-offs between growth and reproduction limit population resilience, and that where people can reach a lake easily, size-selective harvest produces a measurable halo of depletion, favouring smaller fish closest to population centres.
 
 ## What is still open
 

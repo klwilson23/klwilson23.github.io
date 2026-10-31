@@ -25,7 +25,7 @@ page-layout: custom
 ::: {.wrap}
 ::: {.prose}
 
-Long-lived rockfish like yelloweye (*Sebastes ruberrimus*) support food, social and ceremonial fisheries for Central Coast First Nations. They are also among the species most exposed to size-selective harvest, benthic disturbance and ocean change — and because they live for decades, the consequences of a management decision take decades to read.
+Long-lived rockfish like yelloweye (*Sebastes ruberrimus*) support food, social and ceremonial fisheries for Central Coast First Nations. They are also among the species most exposed to size-selective harvest, benthic disturbance and ocean change. Because they live for decades, the consequences of a management decision take decades to read.
 
 ## What we are working on
 

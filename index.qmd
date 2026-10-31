@@ -27,8 +27,8 @@ listing:
       <h1>Understanding risk and resilience in marine, coastal, and freshwater fisheries.</h1>
       <p>We work alongside Indigenous and government partners combining field data, social-ecological theory, and quantitative models to understand risk and resilience in fisheries and work to inform the people and communities who manage them.</p>
       <div class="actions">
-        <a class="btn-lab btn-light-lab" href="research/index.html>See our research</a>
-        <a class="btn-lab btn-ghost-lab" href="prospective-students/index.html/">Join the lab</a>
+        <a class="btn-lab btn-light-lab" href="research/index.html">See our research</a>
+        <a class="btn-lab btn-ghost-lab" href="people/index.html">See our lab</a>
       </div>
     </div>
   </div>

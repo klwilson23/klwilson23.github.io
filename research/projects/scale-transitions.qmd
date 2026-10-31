@@ -3,7 +3,7 @@ title: "Scale transitions in population dynamics"
 description: "Local processes are nonlinear and patchy; aggregate dynamics are not their average. We study what happens in between these scales, and what risks arise from ignoring it."
 system: [theory, salmon]
 partners: "Salmon Watersheds Lab SFU, Central Coast Management Council, COSEWIC Marine Fishes SSC, DFO Science"
-status: "Active — open to students"
+status: "Active, open to students"
 order: 5
 page-layout: custom
 ---
@@ -16,7 +16,7 @@ page-layout: custom
     <div class="meta-strip">
       <div><b>System</b>Population and metapopulation theory</div>
       <div><b>Partners</b>Salmon Watersheds Lab SFU, Central Coast Management Council</div>
-      <div><b>Status</b>Active — open to students</div>
+      <div><b>Status</b>Active, open to students</div>
     </div>
   </div>
 </header>
@@ -25,13 +25,13 @@ page-layout: custom
 ::: {.wrap}
 ::: {.prose}
 
-The processes that govern a fish population — density-dependent growth and survival, dispersal, local mortality — operate at the scale of a stream reach or a reef. The quantities we actually model, monitor and manage are aggregates: a conservation unit, a stock, a management area. Moving between those two scales is not a matter of averaging. Because local processes are nonlinear, the dynamics of the aggregate are systematically *not* the dynamics of its average component. That discrepancy is the **scale transition**, and it is one of the deep structural problems in population ecology.
+The processes that govern a fish population (density-dependent growth and survival, dispersal, local mortality) operate at the scale of a stream reach or a reef. The quantities we actually model, monitor and manage are aggregates: a conservation unit, a stock, a management area. Moving between those two scales is not a matter of averaging. Because local processes are nonlinear, the dynamics of the aggregate are systematically *not* the dynamics of its average component. That discrepancy is the **scale transition**, and it is one of the deep structural problems in population ecology.
 
 ![Local density-dependent recruitment does not aggregate cleanly. Whether disturbance falls evenly or unevenly across patches changes the recruitment curve of the whole.](../../assets/images/spatial-density-dependence.png)
 
 ## What we have shown
 
-We built a general model of how the behaviour of a spatially structured population emerges from the interplay between local dynamics, spatial disturbance and regional dispersal. Whether a disturbance is spread evenly across local patches or concentrated on a few changes the aggregate recovery substantially, and productivity, dispersal and network topology each modulate that outcome. This helps explain why some depleted populations — Chinook salmon, California sea otters, Snake River stocks — recover more slowly than their aggregate demography predicts.
+We built a general model of how the behaviour of a spatially structured population emerges from the interplay between local dynamics, spatial disturbance and regional dispersal. Whether a disturbance is spread evenly across local patches or concentrated on a few changes the aggregate recovery substantially, and productivity, dispersal and network topology each modulate that outcome. This helps explain why some depleted populations, such as Chinook salmon, California sea otters and Snake River stocks, recover more slowly than their aggregate demography predicts.
 
 ![Recovery trajectories of disturbed metapopulations, and the modulating roles of productivity, dispersal and network complexity.](../../assets/images/spatial-recoveries.png)
 

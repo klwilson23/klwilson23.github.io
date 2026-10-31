@@ -32,7 +32,7 @@ listing:
       </div>
     </div>
   </div>
-  <div class="hero-caption"><i></i>A dendritic metapopulation network.</div>
+  <div class="hero-caption"><i></i>Dendritic network representing the watersheds we study.</div>
 </header>
 
 <section class="block">
